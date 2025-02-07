@@ -1,0 +1,11 @@
+---
+title: "Publications"
+---
+
+# Publications
+
+- **Titre de l'article 1**  
+  *Journal*, Année. [Lien](URL)
+- **Titre de l'article 2**  
+  *Journal*, Année. [Lien](URL)
+  

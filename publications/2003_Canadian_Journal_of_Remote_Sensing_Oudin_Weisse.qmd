@@ -1,0 +1,16 @@
+---
+title: "Assimilation of soil moisture into hydrological models for flood forecasting: a variational approach"
+author: "Oudin, L., Weisse, A., Loumagne, C., Hégarat-Mascle, S. L."
+publication: "Canadian Journal Of Remote Sensing"
+year: 2003
+categories: [Hydrological Model,Floods]
+doi: https://doi.org/10.5589/m03-038
+---
+
+## Abstract
+
+Le but de cet article est de présenter une procédure pour la mise à jour des paramètres pouvant être combinée avec tout type de modèle conceptuel pluie–débit pour la prévision des crues. Cette procédure permet d'analyser les améliorations apportées en prévision de crues grâce à l'assimilation de l'état hydrique du sol dans les modèles pluie–débits. La caractéristique majeure de cette méthodologie est qu'elle permet la mise à jour du modèle non seulement à partir d'observations sur les débits comme cela est fait dans les procédures classiques mais aussi à partir d'observations de l'état hydrique du sol dérivées soit de sondes TDR soit de l'observation spatiale. L'objectif de cette recherche était d'évaluer l'intérêt de cette information supplémentaire pour la prévision des crues. Pour cela, une approche a été développée introduisant graduellement cette information et permettant de détecter un seuil au-dessus …
+
+## Citation
+
+Oudin, L., Weisse, A., Loumagne, C., & Hégarat-Mascle, S. L. (2003). Assimilation of soil moisture into hydrological models for flood forecasting: a variational approach. Canadian Journal of Remote Sensing, 29(6), 679–686. https://doi.org/10.5589/m03-038

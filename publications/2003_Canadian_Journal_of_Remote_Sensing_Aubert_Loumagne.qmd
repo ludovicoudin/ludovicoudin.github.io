@@ -1,0 +1,16 @@
+---
+title: "Assimilation of soil moisture into hydrological models: the sequential method"
+author: "Aubert, D., Loumagne, C., Oudin, L., Hégarat-Mascle, S. L."
+publication: "Canadian Journal Of Remote Sensing"
+year: 2003
+categories: [Hydrological Model,Precipitation]
+doi: https://doi.org/10.5589/m03-042
+---
+
+## Abstract
+
+L'amélioration de la précision des modèles de pluie–débit, en particulier de leur performance dans la prévision des inondations, est un élément essentiel en hydrologie continentale. Cet article présente une nouvelle approche à ces problèmes basée sur l'utilisation des données d'humidité du sol (données de télédétection ou in situ). Une première démarche consiste à corriger les erreurs passées de modélisation, plus spécifiquement les erreurs dans le débit simulé, afin d'assurer une estimation plus précise du débit. Les autres paramètres significatifs sont les interactions se manifestant à l'intérieur de l'interface sol–végétation–atmosphère, qui sont des facteurs dominants dans les processus de transformation des précipitations en écoulement à l'échelle du bassin versant. Ces phénomènes peuvent être intégrés dans la modélisation hydrologique en introduisant les mesures d'humidité du sol, prenant ainsi …
+
+## Citation
+
+Aubert, D., Loumagne, C., Oudin, L., & Hégarat-Mascle, S. L. (2003). Assimilation of soil moisture into hydrological models: the sequential method. Canadian Journal of Remote Sensing, 29(6), 711–717. https://doi.org/10.5589/m03-042
