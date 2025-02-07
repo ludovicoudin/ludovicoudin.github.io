@@ -1,0 +1,32 @@
+---
+title: "Modeling approaches to detect land-use changes: Urbanization analyzed on a set of 43 US catchments"
+author: "Salavati, B., Oudin, L., Furusho-Percot, C., Ribstein, P."
+publication: "Journal Of Hydrology"
+year: 2016
+categories: [Hydrological Model,Land-use Changes,Urban Hydrology]
+doi: https://doi.org/10.1016/j.jhydrol.2016.04.010
+---
+
+## Abstract
+
+Paired catchment approach probably provides the most robust method to detect the effects of land-use change on catchments’ flow characteristics. This approach is limited by the availability of two neighbor catchments with and without land-use change under similar climate conditions. This paper uses a hydrological model to detect the hydrological change caused by urbanization. This study describes (1) use a statistical method to evaluate change detection relative to variation of land use change, (2) simulation of non-urban condition for the urban catchment with an alternative approach, to this aim stream flow series of urban catchments have been reconstructed from the period that urbanization had not taken place yet, and (3) the model validation with observed data.
+
+## Citation
+
+Salavati, B., Oudin, L., Furusho-Percot, C., & Ribstein, P. (2016). Modeling approaches to detect land-use changes: Urbanization analyzed on a set of 43 US catchments. Journal of Hydrology, 538, 138–151. https://doi.org/10.1016/j.jhydrol.2016.04.010
+---
+title: "Modeling approaches to detect land-use changes: Urbanization analyzed on a set of 43 US catchments"
+author: "Salavati, B., Oudin, L., Furusho-Percot, C., Ribstein, P."
+publication: "Journal Of Hydrology"
+year: 2016
+categories: [Hydrological Model,Land-use Changes,Urban Hydrology]
+doi: https://doi.org/10.1016/j.jhydrol.2016.04.010
+---
+
+## Abstract
+
+This paper intends to compare the flow changes detected by two different approaches: a regional statistical approach (the paired-catchment approach …
+
+## Citation
+
+Salavati, B., Oudin, L., Furusho-Percot, C., & Ribstein, P. (2016). Modeling approaches to detect land-use changes: Urbanization analyzed on a set of 43 US catchments. Journal of Hydrology, 538, 138–151. https://doi.org/10.1016/j.jhydrol.2016.04.010

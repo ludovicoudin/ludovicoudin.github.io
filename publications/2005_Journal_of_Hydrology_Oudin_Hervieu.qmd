@@ -1,0 +1,16 @@
+---
+title: "Which potential evapotranspiration input for a lumped rainfall–runoff model?"
+author: "Oudin, L., Hervieu, F., Michel, C., Perrin, C., Andréassian, V., Anctil, F., Loumagne, C."
+publication: "Journal Of Hydrology"
+year: 2005
+categories: [Hydrological Model,Precipitation,Evapotranspiration]
+doi: https://doi.org/10.1016/j.jhydrol.2004.08.026
+---
+
+## Abstract
+
+NA
+
+## Citation
+
+Oudin, L., Hervieu, F., Michel, C., Perrin, C., Andréassian, V., Anctil, F., & Loumagne, C. (2005). Which potential evapotranspiration input for a lumped rainfall–runoff model? Journal of Hydrology, 303(1–4), 290–306. https://doi.org/10.1016/j.jhydrol.2004.08.026

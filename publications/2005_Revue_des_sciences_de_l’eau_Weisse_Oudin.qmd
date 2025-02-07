@@ -1,0 +1,16 @@
+---
+title: "Assimilation de données d’humidité des sols pour la prévision de crues : comparaison d’un modèle pluie-débit conceptuel et d’un modèle intégrant une interface sol-végétation-atmosphère"
+author: "Weisse, A., Oudin, L., Loumagne, C."
+publication: "Revue Des Sciences De L’eau"
+year: 2005
+categories: [hydrology]
+doi: https://doi.org/10.7202/705503ar
+---
+
+## Abstract
+
+Le but de cet article est de présenter une méthodologie de mise à jour des paramètres de modèles pluie-débit en période de crue. Elle a été mise au point afin d'améliorer un des aspects de la gestion des réservoirs dans un contexte opérationnel de protection contre les crues: la réduction des incertitudes sur la prévision des débits. L'originalité de la méthode proposée réside dans le fait que l'on utilise non seulement une information sur les débits mais aussi une information sur l'humidité du sol. L'objectif de l'étude est d'évaluer l'intérêt de l'introduction de cette information supplémentaire. Pour cela, les données d'humidité du sol sont introduites au sein du modèle par l'intermédiaire d'une relation de passage établie entre l'humidité mesurée in situ et l'humidité calculée implicitement ou explicitement par les modèles. Cette méthodologie a été testée dans le cadre du projet européen AIMWATER sur quatre sous-bassins de la Seine en amont de Paris (France). Deux modèles pluie-débit sont utilisés dans cette étude, un modèle conceptuel semi-emprique et un modèle conceptuel couplé à un schéma de surface simulant une interface sol-végétation-atmosphère et permettant de calculer l'évolution de l'humidité du sol à différentes profondeurs. Cette approche comparative étudie l'intérêt d'un tel modèle couplé par rapport au modèle conceptuel semi-empirique sans représentation explicite des phénomènes se produisant à l'interface sol-végétation-atmosphère.
+
+## Citation
+
+Weisse, A., Oudin, L., & Loumagne, C. (2005). Assimilation de données d’humidité des sols pour la prévision de crues : comparaison d’un modèle pluie-débit conceptuel et d’un modèle intégrant une interface sol-végétation-atmosphère. Revue Des Sciences de l’eau, 16(2), 173–197. https://doi.org/10.7202/705503ar

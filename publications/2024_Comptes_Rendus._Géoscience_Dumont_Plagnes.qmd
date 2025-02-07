@@ -1,0 +1,16 @@
+---
+title: "Water cycle modelling strengthened by probabilistic integration of field data for groundwater management of a quite unknown tropical volcanic hydrosystem"
+author: "Dumont, M., Plagnes, V., Lachassagne, P., Guérin, R., Nugraha, B., Mohamad, F., Oudin, L., Fadillah, A., Valdès, D., Brocard, G., Bonjour, J., Saadi, M., Esneu, A., Muhammad, A., Hendarmawan, ., Dörfliger, N."
+publication: "Comptes Rendus. Géoscience"
+year: 2024
+categories: [Hydrogeology]
+doi: https://doi.org/10.5802/crgeos.192
+---
+
+## Abstract
+
+Andesitic volcanic hydrosystems in Indonesia are mostly hydrogeologically unknown despite their socio-economic importance. The development of robust and easy-to-implement methodologies to conceptualize and quantify the water cycle components becomes a prerequisite for their sustainable management.
+
+## Citation
+
+Dumont, M., Plagnes, V., Lachassagne, P., Guérin, R., Nugraha, B., Mohamad, F., Oudin, L., Fadillah, A., Valdès, D., Brocard, G., Bonjour, J.-L., Saadi, M., Esneu, A.-S., Muhammad, A., Hendarmawan, & Dörfliger, N. (2024). Water cycle modelling strengthened by probabilistic integration of field data for groundwater management of a quite unknown tropical volcanic hydrosystem. Comptes Rendus. Géoscience, 355(S1), 207–229. https://doi.org/10.5802/crgeos.192

@@ -1,0 +1,16 @@
+---
+title: "Évolution potentielle du régime des crues de la Seine sous changement climatique"
+author: "Ducharne, A., Sauquet, E., Habets, F., Deque, M., Gascoin, S., Hachour, A., Martin, E., Oudin, L., Page, C., Terray, L., Thiery, D., Viennot, P."
+publication: "La Houille Blanche"
+year: 2011
+categories: [hydrology]
+doi: https://doi.org/10.1051/lhb/2011006
+---
+
+## Abstract
+
+NA
+
+## Citation
+
+Ducharne, A., Sauquet, E., Habets, F., Deque, M., Gascoin, S., Hachour, A., Martin, E., Oudin, L., Page, C., Terray, L., Thiery, D., & Viennot, P. (2011). Évolution potentielle du régime des crues de la Seine sous changement climatique. La Houille Blanche, 97(1), 51–57. https://doi.org/10.1051/lhb/2011006

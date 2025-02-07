@@ -1,0 +1,16 @@
+---
+title: "What is really undermining hydrologic science today?"
+author: "Andréassian, V., Lerat, J., Loumagne, C., Mathevet, T., Michel, C., Oudin, L., Perrin, C."
+publication: "Hydrological Processes"
+year: 2007
+categories: [hydrology]
+doi: https://doi.org/10.1002/hyp.6854
+---
+
+## Abstract
+
+This paper aims to contribute to the debate that Beven [See Hydrological Processes (2006) 20, 3141-3146] had been undermining the reputation of hydrologic science among model-end users. Focus is given on two issues: (1) model simulation uncertainties; and (2) the factors undermining hydrologic science.
+
+## Citation
+
+Andréassian, V., Lerat, J., Loumagne, C., Mathevet, T., Michel, C., Oudin, L., & Perrin, C. (2007). What is really undermining hydrologic science today? Hydrological Processes, 21(20), 2819–2822. Portico. https://doi.org/10.1002/hyp.6854

@@ -1,0 +1,16 @@
+---
+title: "Évolution, modélisation et cartographie des rendements de l’oliveraie dans la province de Jaen en Espagne (1959-2018)"
+author: "Arfaoui, F., Cohen, M., Oudin, L., Ronchail, J."
+publication: "Climatologie"
+year: 2021
+categories: [Urban Hydrology,Precipitation]
+doi: https://doi.org/10.1051/climat/202118004
+---
+
+## Abstract
+
+Les acteurs de l’oléiculture en Andalousie s’interrogent sur l’impact du changement climatique sur leur activité, très importante en termes de surfaces concernées, de production et de revenus. Pour tenter de leur répondre, ce travail décrit tout d’abord l’évolution du climat et des rendements annuels des oliveraies pluviales et irriguées dans la province de Jaén (Andalousie) depuis les années 50. Puis sont réalisées des modélisations des relations entre les rendements pluviaux et irrigués provinciaux et des variables climatiques TerraClimate (à résolution de 4 km), moyennées sur la zone oléicole de la province de Jaén. Enfin, les modèles permettent de calculer puis de cartographier la répartition théorique actuelle des rendements. Les rendements, très variables d’une année sur l’autre, plus élevés dans les vergers irrigués que dans les vergers pluviaux, ont fortement augmenté depuis la fin des années cinquante puis ils se sont stabilisés à partir de la fin des années 1990, avec en moyenne 30 q/ha en pluvial et 51 q/ha en irrigué pour la période 1996-2018. Par ailleurs, les températures, moyennées sur la zone oléicole de la province de Jaén, ont augmenté, surtout les températures diurnes, essentiellement durant la saison chaude. Les précipitations, très variables d’une année sur l’autre, ont diminué de 16% après 1979. Entre 1996 et 2018, les variables qui expliquent le mieux les rendements sont les pluies annuelles et les températures minimales d’automne et d’août dans les oliveraies pluviales, et les pluies et températures minimales d’automne, les températures maximales d’été et les températures minimales de février, dans les oliveraies irriguées. Des valeurs de rendement théoriques en pluvial et en irrigué sont calculées par régression multiple (1996-2018), validées par cross-validation. Les valeurs théoriques sont ensuite cartographiées sur des pixels de 4 km de côté. Si les valeurs simulées et moyennées (1996-2018) sont proches des valeurs provinciales observées, avec une erreur-moyenne de 6 q/ha en irrigué et en pluvial, leur répartition spatiale n’est pas tout à fait cohérente avec quelques informations disponibles à l’échelle communale. Il conviendra donc de perfectionner la modélisation des rendements et leur cartographie avant de passer à l’étape suivante : simuler et cartographier les rendements potentiels futurs, compte tenu du changement climatique, pour disposer d’un outil de discussion avec les oléiculteurs et les aider à préparer l’adaptation de leur activité.
+
+## Citation
+
+Arfaoui, F., Cohen, M., Oudin, L., & Ronchail, J. (2021). Évolution, modélisation et cartographie des rendements de l’oliveraie dans la province de Jaen en Espagne (1959-2018). Climatologie, 18, 4. https://doi.org/10.1051/climat/202118004

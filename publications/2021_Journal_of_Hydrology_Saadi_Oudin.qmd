@@ -1,0 +1,16 @@
+---
+title: "Physically consistent conceptual rainfall–runoff model for urbanized catchments"
+author: "Saadi, M., Oudin, L., Ribstein, P."
+publication: "Journal Of Hydrology"
+year: 2021
+categories: [Hydrological Model,Urban Hydrology,Precipitation,Low-Flows]
+doi: https://doi.org/10.1016/j.jhydrol.2021.126394
+---
+
+## Abstract
+
+Hydrological models should be tested and evaluated for a wide variety of levels of urbanization before they are used to predict the impact of urbanization on catchment behavior. In this study, we illustrate a top–down approach of modifying step by step an hourly conceptual model structure (GR4H) to account for urbanization features. Modifying the original model structure included accounting explicitly for runoff from impervious surfaces by bypassing the soil moisture reservoir and varying the partitioning between quick flow and slow flow. These adaptations were chosen based on the reported specificities of urbanized catchments, namely, decreasing infiltration, increasing runoff, and fast runoff dynamics. Using a split-sample test, the relevance of each modification with regard to the reproduction of catchment response (i.e., observed streamflow) was assessed for a large sample of 273 urbanized catchments, located …
+
+## Citation
+
+Saadi, M., Oudin, L., & Ribstein, P. (2021). Physically consistent conceptual rainfall–runoff model for urbanized catchments. Journal of Hydrology, 599, 126394. https://doi.org/10.1016/j.jhydrol.2021.126394

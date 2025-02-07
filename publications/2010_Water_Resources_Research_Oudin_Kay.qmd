@@ -1,0 +1,16 @@
+---
+title: "Are seemingly physically similar catchments truly hydrologically similar?"
+author: "Oudin, L., Kay, A., Andréassian, V., Perrin, C."
+publication: "Water Resources Research"
+year: 2010
+categories: [Hydrological Model,Prediction in Ungauged basins]
+doi: https://doi.org/10.1029/2009wr008887
+---
+
+## Abstract
+
+This paper discusses the notion of similarity often used in the regionalization studies of hydrological models. We compare two different visions of similarity: the apparent similarity defined on the basis of observable catchment properties, and behavioral similarity judged through the use of hydrological models. These two visions are generally assumed to be merged in regionalization studies: Catchments having apparently similar physical characteristics are assumed to have a similar hydrological behavior. In this paper, we wished to test the validity of this assumption. To this aim, we defined behavioral (hydrological) similarity on the basis of model parameter transferability. Then pools of hydrologically similar catchments are compared with pools of apparently physically similar catchments, as identified on the basis of physiographic catchment descriptors. The overlap between the two pools of similar catchments is analyzed, making it possible to judge the efficiency of the physical similarity measure and to identify hydrologically similar catchments in an ungauged context. The results show that the overlap between the two pools is significant for only 60% of the catchments. For the other catchments, two major reasons were identified as contributing to the lack of overlap: (1) these catchments often have a quite specific hydrological behavior and (2) the role of the underground properties of the catchment on its hydrological behavior was not found to be accurately described by the available physical descriptors, meaning that more relevant catchment descriptors should be sought to better describe the geological and lithological context in hydrological terms.
+
+## Citation
+
+Oudin, L., Kay, A., Andréassian, V., & Perrin, C. (2010). Are seemingly physically similar catchments truly hydrologically similar? Water Resources Research, 46(11). Portico. https://doi.org/10.1029/2009wr008887

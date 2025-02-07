@@ -1,0 +1,16 @@
+---
+title: "Random Forest Ability in Regionalizing Hourly Hydrological Model Parameters"
+author: "Saadi, M., Oudin, L., Ribstein, P."
+publication: "Water"
+year: 2019
+categories: [Hydrological Model,Prediction in Ungauged basins,Urban Hydrology,Model Calibration]
+doi: https://doi.org/10.3390/w11081540
+---
+
+## Abstract
+
+This study investigated the potential of random forest (RF) algorithms for regionalizing the parameters of an hourly hydrological model. The relationships between model parameters and climate/landscape catchment descriptors were multidimensional and exhibited nonlinear features. In this case, machine-learning tools offered the option of efficiently handling such relationships using a large sample of data. The performance of the regionalized model using RF was assessed in comparison with local calibration and two benchmark regionalization approaches. Two catchment sets were considered: (1) A target pseudo-ungauged catchment set was composed of 120 urban ungauged catchments and (2) 2105 gauged American and French catchments were used for constructing the RF. By using pseudo-ungauged urban catchments, we aimed at assessing the potential of the RF to detect the specificities of the urban catchments. Results showed that RF-regionalized models allowed for slightly better streamflow simulations on ungauged sites compared with benchmark regionalization approaches. Yet, constructed RFs were weakly sensitive to the urbanization features of the catchments, which prevents their use in straightforward scenarios of the hydrological impacts of urbanization.
+
+## Citation
+
+Saadi, M., Oudin, L., & Ribstein, P. (2019). Random Forest Ability in Regionalizing Hourly Hydrological Model Parameters. Water, 11(8), 1540. https://doi.org/10.3390/w11081540

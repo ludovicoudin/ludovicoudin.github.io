@@ -1,0 +1,16 @@
+---
+title: "Évaluation de l’impact de l’urbanisation sur la réponse hydrologique de 172 bassins versants américains"
+author: "Salavati, B., Oudin, L., Furusho, C., Ribstein, P."
+publication: "La Houille Blanche"
+year: 2015
+categories: [Urban Hydrology]
+doi: https://doi.org/10.1051/lhb/20150033
+---
+
+## Abstract
+
+L'anthropisation a de multiples impacts sur les réponses hydrologiques des bassins versants. Ces impacts sont difficiles à quantifier à l'échelle spatiale du bassin versant et les résultats de la littérature sur ce sujet sont assez disparates. L'objectif de cette étude est de faire le lien entre la proportion des surfaces urbaines actuelles (considérées comme moins perméables) et l'évolution des réponses hydrologiques des bassins versants. Ceci pose un important problème lié à la relation entre la variabilité du climat et celle de la réponse hydrologique des bassins. Pour ce faire, le modèle hydrologique GR4J a été utilisé. Cette étude est basée sur l'analyse de 104 bassins versants urbains et 68 bassins non-urbains aux États-Unis. Le débit et la pluie journalière des bassins étudiés ont été collectés pour des périodes de 30 à 70 ans selon les bassins. Dans cette méthode, seul le jeu de paramètres du modèle change d …
+
+## Citation
+
+Salavati, B., Oudin, L., Furusho, C., & Ribstein, P. (2015). Évaluation de l’impact de l’urbanisation sur la réponse hydrologique de 172 bassins versants américains. La Houille Blanche, 101(3), 51–57. https://doi.org/10.1051/lhb/20150033

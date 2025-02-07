@@ -1,0 +1,16 @@
+---
+title: "Impact of river bed morphology on discharge and water levels simulated by a 1D Saint–Venant hydraulic model at regional scale"
+author: "Saleh, F., Ducharne, A., Flipo, N., Oudin, L., Ledoux, E."
+publication: "Journal Of Hydrology"
+year: 2013
+categories: [Hydraulics]
+doi: https://doi.org/10.1016/j.jhydrol.2012.10.027
+---
+
+## Abstract
+
+River cross-sections data are required to represent channel geometry in hydrodynamic models. In the absence of accurate data at regional scale, simplified or parameterized cross sections are often used, which might affect the performance of the hydrodynamic model. In this study we assess the sensitivity of a 1D Saint–Venant hydraulic model to different types of river morphological data. The question is addressed using a 1D unsteady hydraulic model (HEC-RAS), with lateral inflows provided by the hydro(geo)logical model Eau-Dyssée, to explore a wide spectrum of river geometry scenarios, regarding river bed slopes and cross-sectional shapes. The target scale is the one of the Seine River (France). As a gateway for larger and more complex regional hydro(geo)logical applications, our case-study covers a well-described 89-km reach in a sub-tributary of the Seine River. River morphology is described by high …
+
+## Citation
+
+Saleh, F., Ducharne, A., Flipo, N., Oudin, L., & Ledoux, E. (2013). Impact of river bed morphology on discharge and water levels simulated by a 1D Saint–Venant hydraulic model at regional scale. Journal of Hydrology, 476, 169–177. https://doi.org/10.1016/j.jhydrol.2012.10.027

@@ -1,0 +1,16 @@
+---
+title: "Étude de la sensibilité des paramètres d’un modèle «rural» sur des bassins versants urbanisés"
+author: "Saadi, M., Oudin, L., Ribstein, P."
+publication: "La Houille Blanche"
+year: 2019
+categories: [Urban Hydrology]
+doi: https://doi.org/10.1051/lhb/2019013
+---
+
+## Abstract
+
+Plusieurs modèles peuvent être utilisés pour représenter les processus hydrologiques en milieu urbain. Ces modèles sont développés suivant différentes approches en fonction de l'objectif de modélisation, de l'échelle spatio-temporelle et de la disponibilité des données hydroclimatiques et spatiales. Dans cet article, nous proposons de développer un outil parcimonieux et généralisable à partir d'une structure de modèle non dédié au contexte urbanisé. Dans un premier temps, nous analysons la structure de départ et la sensibilité des paramètres qu'elle contient à la présence de surfaces urbaines dans le bassin versant. Pour ce faire, un échantillon de 365 bassins versants français et américains a été construit. Le modèle est calé sur deux périodes pour chaque bassin versant, donnant ainsi 730 couples bassin-période pour lesquels la fraction urbaine dans le bassin a été déterminée. L'analyse de la sensibilité …
+
+## Citation
+
+Saadi, M., Oudin, L., & Ribstein, P. (2019). Étude de la sensibilité des paramètres d’un modèle «rural» sur des bassins versants urbanisés. La Houille Blanche, 105(2), 35–43. https://doi.org/10.1051/lhb/2019013

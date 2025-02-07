@@ -1,0 +1,16 @@
+---
+title: "Landward Perspective of Coastal Eutrophication Potential Under Future Climate Change: The Seine River Case (France)"
+author: "Raimonet, M., Thieu, V., Silvestre, M., Oudin, L., Rabouille, C., Vautard, R., Garnier, J."
+publication: "Frontiers In Marine Science"
+year: 2018
+categories: [Climate Change]
+doi: https://doi.org/10.3389/fmars.2018.00136
+---
+
+## Abstract
+
+NA
+
+## Citation
+
+Raimonet, M., Thieu, V., Silvestre, M., Oudin, L., Rabouille, C., Vautard, R., & Garnier, J. (2018). Landward Perspective of Coastal Eutrophication Potential Under Future Climate Change: The Seine River Case (France). Frontiers in Marine Science, 5. https://doi.org/10.3389/fmars.2018.00136
