@@ -1,9 +1,84 @@
 ---
-title: "About"
+title: "About me"
+image: "/files/avatar_small.jpg"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+::: {#hero-heading}
+
+Je suis enseignant-chercheur à Sorbonne université au laboratoire METIS. 
+
+Mes travaux de recherche portent essentiellement sur la modélisation hydrologique à l’échelle dite régionale et s’articulent autour de trois axes : (i) le lien entre hydrologie et climat, (ii) le lien entre hydrologie et état de surface et (iii) des développements méthodologique de modélisation permettant de tenir compte des non-stationnarités climatiques et environnementales.
+
+J'enseigne principalement l'hydrologie et l'hydraulique et suis responsable du parcours Hydrologie, Hydrogéologie et Géochimie environnementale.
+
+
+## Education 
+
+**Sorbonne Université** | Paris France
+
+HDR in Hydrology | Oct 2012
+
+Réalisme physique des modèles hydrologiques
+
+
+
+**AgroParisTech - INRAE** | Paris, France
+
+PhD in Hydrology | Sept 2001 - Oct 2004
+
+Recherche d’un modèle d’évapotranspiration potentielle (ETP) pertinent comme entrée d’un modèle pluie-débit global. Dirigée par Claude Michel et François Anctil
+Prix de thèse CNFGG et Félicitations du prix Henri Milon
+
+<form action="https://theses.hal.science/pastel-00000931/" method="get" target="_blank"><button type="submit">Read PhD</button></form>
+
+
+
+
+**ENS Saint-Cloud - Univ Paris IV** | Paris, France
+
+Ms Geography | Sept 2000 - Sept 2001
+
+"Hommes Espace Temps Ressources Environnement"
+
+
+
+**ENSE3** | Grenoble, France
+
+Ing. Hydraulics | Sept 1998 - Sept 2000
+
+
+  
+## Experience
+
+**Sorbonne Université - UMR METIS** | Paris, France
+
+Maître de conférences HDR | 2005-Present
+
+Main activities :
+
+- Responsable de l'équipe Hydrosystèmes du laboratoire METIS
+
+- Responsable du parcours de M2 Hydrologie, Hydrogéologie, Géochimie Environnementale
+
+- Responsable de thème Cycle de l'Eau de l'EUR CGS IPSL
+    
+
+
+**INRAE** | Antony, France
+
+Ingénieur de recherche | 2004-2005
+Main activities :
+
+- Développement de modèles de prévisions de crues sur le bassin de la Seine
+
+- Transfert d'outils de modélisation au Service de Prévision des Crues de la DRIEAT
+
+---
+
+:::
+
