@@ -1,6 +1,11 @@
 project:
   type: website
 
+website:
+  title: "Ludovic Oudin"
+  image: "/files/avatar.jpg"
+  description: "Ludovic Oudin is a teacher and researcher"
+ 
   navbar:
     background: light
 
@@ -17,8 +22,6 @@ project:
           href: publications.qmd
         - text: Awards
           href: awards.qmd  
-        - text: publications
-          href: publications.qmd
       - text: Teaching
         href: teaching.qmd
     right: 
@@ -56,6 +59,3 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     email-obfuscation: javascript
-    include-in-header: "files/includes/_academic.qmd"
-
-
