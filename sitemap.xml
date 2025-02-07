@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ludovicoudin.github.io/awards.html</loc>
+    <lastmod>2025-02-07T08:56:14.805Z</lastmod>
+  </url>
+  <url>
     <loc>https://ludovicoudin.github.io/index.html</loc>
-    <lastmod>2025-02-07T08:33:53.743Z</lastmod>
+    <lastmod>2025-02-07T08:56:14.823Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ludovicoudin.github.io/teaching.html</loc>
+    <lastmod>2025-02-07T08:56:14.824Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ludovicoudin.github.io/publications/2003_Canadian_Journal_of_Remote_Sensing_Oudin_Weisse.html</loc>
+    <lastmod>2025-02-07T08:56:14.824Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ludovicoudin.github.io/publications/2003_Canadian_Journal_of_Remote_Sensing_Aubert_Loumagne.html</loc>
+    <lastmod>2025-02-07T08:56:14.824Z</lastmod>
   </url>
   <url>
     <loc>https://ludovicoudin.github.io/about.html</loc>
-    <lastmod>2025-02-07T08:33:53.739Z</lastmod>
+    <lastmod>2025-02-07T08:56:14.805Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ludovicoudin.github.io/publications.html</loc>
+    <lastmod>2025-02-07T08:56:14.824Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ludovicoudin.github.io/contact.html</loc>
+    <lastmod>2025-02-07T08:56:14.805Z</lastmod>
   </url>
 </urlset>

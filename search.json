@@ -1,16 +1,100 @@
 [
   {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\n\nTitre de l’article 1\nJournal, Année. Lien\nTitre de l’article 2\nJournal, Année. Lien"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ludovicoudin.github.io",
+    "title": "Ludovic Oudin",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "E-mail Me\n  \n  \n    \n     LinkedIn\n  \n  \n       Google Scholar\n  \n  \n       Orcid\n  \n\n  \n  \nJe suis enseignant-chercheur à Sorbonne université au laboratoire METIS.\nMes travaux de recherche portent essentiellement sur la modélisation hydrologique à l’échelle dite régionale et s’articulent autour de trois axes : (i) le lien entre hydrologie et climat, (ii) le lien entre hydrologie et état de surface et (iii) des développements méthodologique de modélisation permettant de tenir compte des non-stationnarités climatiques et environnementales.\nJ’enseigne principalement l’hydrologie et l’hydraulique et suis responsable du parcours Hydrologie, Hydrogéologie et Géochimie environnementale."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\n\nTitre de l’article 1\nJournal, Année. Lien\nTitre de l’article 2\nJournal, Année. Lien"
+  },
+  {
+    "objectID": "publications/2003_Canadian_Journal_of_Remote_Sensing_Oudin_Weisse.html",
+    "href": "publications/2003_Canadian_Journal_of_Remote_Sensing_Oudin_Weisse.html",
+    "title": "Assimilation of soil moisture into hydrological models for flood forecasting: a variational approach",
+    "section": "",
+    "text": "Le but de cet article est de présenter une procédure pour la mise à jour des paramètres pouvant être combinée avec tout type de modèle conceptuel pluie–débit pour la prévision des crues. Cette procédure permet d’analyser les améliorations apportées en prévision de crues grâce à l’assimilation de l’état hydrique du sol dans les modèles pluie–débits. La caractéristique majeure de cette méthodologie est qu’elle permet la mise à jour du modèle non seulement à partir d’observations sur les débits comme cela est fait dans les procédures classiques mais aussi à partir d’observations de l’état hydrique du sol dérivées soit de sondes TDR soit de l’observation spatiale. L’objectif de cette recherche était d’évaluer l’intérêt de cette information supplémentaire pour la prévision des crues. Pour cela, une approche a été développée introduisant graduellement cette information et permettant de détecter un seuil au-dessus …"
+  },
+  {
+    "objectID": "publications/2003_Canadian_Journal_of_Remote_Sensing_Oudin_Weisse.html#abstract",
+    "href": "publications/2003_Canadian_Journal_of_Remote_Sensing_Oudin_Weisse.html#abstract",
+    "title": "Assimilation of soil moisture into hydrological models for flood forecasting: a variational approach",
+    "section": "",
+    "text": "Le but de cet article est de présenter une procédure pour la mise à jour des paramètres pouvant être combinée avec tout type de modèle conceptuel pluie–débit pour la prévision des crues. Cette procédure permet d’analyser les améliorations apportées en prévision de crues grâce à l’assimilation de l’état hydrique du sol dans les modèles pluie–débits. La caractéristique majeure de cette méthodologie est qu’elle permet la mise à jour du modèle non seulement à partir d’observations sur les débits comme cela est fait dans les procédures classiques mais aussi à partir d’observations de l’état hydrique du sol dérivées soit de sondes TDR soit de l’observation spatiale. L’objectif de cette recherche était d’évaluer l’intérêt de cette information supplémentaire pour la prévision des crues. Pour cela, une approche a été développée introduisant graduellement cette information et permettant de détecter un seuil au-dessus …"
+  },
+  {
+    "objectID": "publications/2003_Canadian_Journal_of_Remote_Sensing_Oudin_Weisse.html#citation",
+    "href": "publications/2003_Canadian_Journal_of_Remote_Sensing_Oudin_Weisse.html#citation",
+    "title": "Assimilation of soil moisture into hydrological models for flood forecasting: a variational approach",
+    "section": "Citation",
+    "text": "Citation\nOudin, L., Weisse, A., Loumagne, C., & Hégarat-Mascle, S. L. (2003). Assimilation of soil moisture into hydrological models for flood forecasting: a variational approach. Canadian Journal of Remote Sensing, 29(6), 679–686. https://doi.org/10.5589/m03-038"
+  },
+  {
+    "objectID": "publications/2003_Canadian_Journal_of_Remote_Sensing_Aubert_Loumagne.html",
+    "href": "publications/2003_Canadian_Journal_of_Remote_Sensing_Aubert_Loumagne.html",
+    "title": "Assimilation of soil moisture into hydrological models: the sequential method",
+    "section": "",
+    "text": "L’amélioration de la précision des modèles de pluie–débit, en particulier de leur performance dans la prévision des inondations, est un élément essentiel en hydrologie continentale. Cet article présente une nouvelle approche à ces problèmes basée sur l’utilisation des données d’humidité du sol (données de télédétection ou in situ). Une première démarche consiste à corriger les erreurs passées de modélisation, plus spécifiquement les erreurs dans le débit simulé, afin d’assurer une estimation plus précise du débit. Les autres paramètres significatifs sont les interactions se manifestant à l’intérieur de l’interface sol–végétation–atmosphère, qui sont des facteurs dominants dans les processus de transformation des précipitations en écoulement à l’échelle du bassin versant. Ces phénomènes peuvent être intégrés dans la modélisation hydrologique en introduisant les mesures d’humidité du sol, prenant ainsi …"
+  },
+  {
+    "objectID": "publications/2003_Canadian_Journal_of_Remote_Sensing_Aubert_Loumagne.html#abstract",
+    "href": "publications/2003_Canadian_Journal_of_Remote_Sensing_Aubert_Loumagne.html#abstract",
+    "title": "Assimilation of soil moisture into hydrological models: the sequential method",
+    "section": "",
+    "text": "L’amélioration de la précision des modèles de pluie–débit, en particulier de leur performance dans la prévision des inondations, est un élément essentiel en hydrologie continentale. Cet article présente une nouvelle approche à ces problèmes basée sur l’utilisation des données d’humidité du sol (données de télédétection ou in situ). Une première démarche consiste à corriger les erreurs passées de modélisation, plus spécifiquement les erreurs dans le débit simulé, afin d’assurer une estimation plus précise du débit. Les autres paramètres significatifs sont les interactions se manifestant à l’intérieur de l’interface sol–végétation–atmosphère, qui sont des facteurs dominants dans les processus de transformation des précipitations en écoulement à l’échelle du bassin versant. Ces phénomènes peuvent être intégrés dans la modélisation hydrologique en introduisant les mesures d’humidité du sol, prenant ainsi …"
+  },
+  {
+    "objectID": "publications/2003_Canadian_Journal_of_Remote_Sensing_Aubert_Loumagne.html#citation",
+    "href": "publications/2003_Canadian_Journal_of_Remote_Sensing_Aubert_Loumagne.html#citation",
+    "title": "Assimilation of soil moisture into hydrological models: the sequential method",
+    "section": "Citation",
+    "text": "Citation\nAubert, D., Loumagne, C., Oudin, L., & Hégarat-Mascle, S. L. (2003). Assimilation of soil moisture into hydrological models: the sequential method. Canadian Journal of Remote Sensing, 29(6), 711–717. https://doi.org/10.5589/m03-042"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Je suis enseignant-chercheur à Sorbonne université au laboratoire METIS.\nMes travaux de recherche portent essentiellement sur la modélisation hydrologique à l’échelle dite régionale et s’articulent autour de trois axes : (i) le lien entre hydrologie et climat, (ii) le lien entre hydrologie et état de surface et (iii) des développements méthodologique de modélisation permettant de tenir compte des non-stationnarités climatiques et environnementales.\nJ’enseigne principalement l’hydrologie et l’hydraulique et suis responsable du parcours Hydrologie, Hydrogéologie et Géochimie environnementale.\n\n\nSorbonne Université | Paris France\nHDR in Hydrology | Oct 2012\nRéalisme physique des modèles hydrologiques\nAgroParisTech - INRAE | Paris, France\nPhD in Hydrology | Sept 2001 - Oct 2004\nRecherche d’un modèle d’évapotranspiration potentielle (ETP) pertinent comme entrée d’un modèle pluie-débit global. Dirigée par Claude Michel et François Anctil Prix de thèse CNFGG et Félicitations du prix Henri Milon\n\n\nRead PhD\n\n\nENS Saint-Cloud - Univ Paris IV | Paris, France\nMs Geography | Sept 2000 - Sept 2001\n“Hommes Espace Temps Ressources Environnement”\nENSE3 | Grenoble, France\nIng. Hydraulics | Sept 1998 - Sept 2000\n\n\n\nSorbonne Université - UMR METIS | Paris, France\nMaître de conférences HDR | 2005-Present\nMain activities :\n\nResponsable de l’équipe Hydrosystèmes du laboratoire METIS\nResponsable du parcours de M2 Hydrologie, Hydrogéologie, Géochimie Environnementale\nResponsable de thème Cycle de l’Eau de l’EUR CGS IPSL\n\nINRAE | Antony, France\nIngénieur de recherche | 2004-2005 Main activities :\n\nDéveloppement de modèles de prévisions de crues sur le bassin de la Seine\nTransfert d’outils de modélisation au Service de Prévision des Crues de la DRIEAT"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About me",
+    "section": "",
+    "text": "Sorbonne Université | Paris France\nHDR in Hydrology | Oct 2012\nRéalisme physique des modèles hydrologiques\nAgroParisTech - INRAE | Paris, France\nPhD in Hydrology | Sept 2001 - Oct 2004\nRecherche d’un modèle d’évapotranspiration potentielle (ETP) pertinent comme entrée d’un modèle pluie-débit global. Dirigée par Claude Michel et François Anctil Prix de thèse CNFGG et Félicitations du prix Henri Milon\n\n\nRead PhD\n\n\nENS Saint-Cloud - Univ Paris IV | Paris, France\nMs Geography | Sept 2000 - Sept 2001\n“Hommes Espace Temps Ressources Environnement”\nENSE3 | Grenoble, France\nIng. Hydraulics | Sept 1998 - Sept 2000"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About me",
+    "section": "",
+    "text": "Sorbonne Université - UMR METIS | Paris, France\nMaître de conférences HDR | 2005-Present\nMain activities :\n\nResponsable de l’équipe Hydrosystèmes du laboratoire METIS\nResponsable du parcours de M2 Hydrologie, Hydrogéologie, Géochimie Environnementale\nResponsable de thème Cycle de l’Eau de l’EUR CGS IPSL\n\nINRAE | Antony, France\nIngénieur de recherche | 2004-2005 Main activities :\n\nDéveloppement de modèles de prévisions de crues sur le bassin de la Seine\nTransfert d’outils de modélisation au Service de Prévision des Crues de la DRIEAT"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Ludovic Oudin",
+    "section": "",
+    "text": "Home\n    Publications\n  \n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Assimilation of soil moisture into hydrological models for flood forecasting: a variational approach\n    Oudin, L., Weisse, A., Loumagne, C., Hégarat-Mascle, S. L.\n    Canadian Journal Of Remote Sensing\n    (2003)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Assimilation of soil moisture into hydrological models: the sequential method\n    Aubert, D., Loumagne, C., Oudin, L., Hégarat-Mascle, S. L.\n    Canadian Journal Of Remote Sensing\n    (2003)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Ludovic Oudin\nSorbonne Université\nUMR 7619 METIS\n4, Place Jussieu\n75005 PARIS\nE-mail: ludovic.oudin at sorbonne-universite dot fr"
   }
 ]
