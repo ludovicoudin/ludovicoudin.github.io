@@ -3,7 +3,7 @@ title: "Une formule simple d’évapotranspiration potentielle pour la modélisa
 author: "Oudin, L."
 publication: "La Houille Blanche"
 year: 2006
-categories: [Hydrological Model,Precipitation,Evapotranspiration]
+categories: [Hydrological Model,Evapotranspiration]
 doi: https://doi.org/10.1051/lhb:2006109
 ---
 

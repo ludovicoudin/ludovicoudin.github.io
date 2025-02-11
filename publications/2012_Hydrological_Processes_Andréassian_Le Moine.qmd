@@ -9,7 +9,7 @@ doi: https://doi.org/10.1002/hyp.9264
 
 ## Abstract
 
-All that glitters is not gold is one of those universal truths that also applies to hydrology, and particularly to the issue of model calibration, where a glittering mathematical optimum is too often mistaken for a hydrological optimum. This commentary aims at underlining the fact that calibration difficulties have not disappeared with the advent of the latest search algorithms. While it is true that progress on the numerical front has allowed us to quasi-eradicate miscalibration issues, we still too often underestimate the remaining hydrological task: screening mathematical optima in order to identify those parameter sets which will also work sufficiently outside the calibration period.
+All that glitters is not gold is one of those universal truths that also applies to hydrology and particularly to the issue of model calibration, where a glittering mathematical optimum is too often mistaken for a hydrological optimum. This commentary aims at underlining the fact that calibration difficulties have not disappeared with the advent of the latest search algorithms. Although it is true that progress on the numerical front has allowed us to quasi-eradicate miscalibration issues, we still too often underestimate the remaining hydrological task: screening mathematical optima to identify those parameter sets that will also work sufficiently outside the calibration period.
 
 ## Citation
 

@@ -3,7 +3,7 @@ title: "Multi-objective assessment of hydrological model performances using Nash
 author: "Mathevet, T., Le Moine, N., Andréassian, V., Gupta, H., Oudin, L."
 publication: "Comptes Rendus. Géoscience"
 year: 2024
-categories: [Hydrological Model,Precipitation,Model Calibration]
+categories: [Hydrological Model,Model Calibration]
 doi: https://doi.org/10.5802/crgeos.189
 ---
 

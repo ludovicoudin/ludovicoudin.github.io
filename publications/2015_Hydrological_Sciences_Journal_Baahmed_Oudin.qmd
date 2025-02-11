@@ -3,7 +3,7 @@ title: "Current runoff variations in the Macta catchment (Algeria): is climate t
 author: "Baahmed, D., Oudin, L., Errih, M."
 publication: "Hydrological Sciences Journal"
 year: 2015
-categories: [Hydrological Model,Precipitation]
+categories: [Hydrological Model]
 doi: https://doi.org/10.1080/02626667.2014.975708
 ---
 

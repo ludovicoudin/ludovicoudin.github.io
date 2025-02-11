@@ -1,6 +1,6 @@
 ---
 title: "About me"
-image: "/files/avatar_small.jpg"
+image: "/files/avatar.jpg"
 about:
   id: hero-heading
   template: trestles

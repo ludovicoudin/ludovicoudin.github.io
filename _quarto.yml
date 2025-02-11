@@ -23,7 +23,11 @@ website:
         - text: Awards
           href: awards.qmd  
       - text: Teaching
-        href: teaching.qmd
+        menu:
+        - text: Sorbonne Univ
+          href: teaching.qmd
+        - text: e-learning
+          href: elearning.qmd  
     right: 
       - text: CV
         href: files/CV_oudin_en.pdf

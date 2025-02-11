@@ -14,19 +14,3 @@ Evaporation is a function of both climate conditions and other environmental con
 ## Citation
 
 Oudin, L., & Lalonde, M. (2024). Pitfalls of space-time trading when parametrizing a land use dependent hydrological model. Comptes Rendus. Géoscience, 355(S1), 99–115. https://doi.org/10.5802/crgeos.146
----
-title: "Pitfalls of space-time trading when parametrizing a land use dependent hydrological model"
-author: "Oudin, L., Lalonde, M."
-publication: "Comptes Rendus. Géoscience"
-year: 2024
-categories: [Hydrological Model,Budyko,Climate Change,Land-use Changes,Urban Hydrology,Evapotranspiration]
-doi: https://doi.org/10.5802/crgeos.146
----
-
-## Abstract
-
-L’évaporation est une fonction à la fois des conditions climatiques et des conditions environnementales, y compris l’occupation du sol. Dans le contexte des changements environnementaux à grande échelle, la compréhension des impacts relatifs de chaque facteur dans les changements passés et futurs de l …
-
-## Citation
-
-Oudin, L., & Lalonde, M. (2024). Pitfalls of space-time trading when parametrizing a land use dependent hydrological model. Comptes Rendus. Géoscience, 355(S1), 99–115. https://doi.org/10.5802/crgeos.146

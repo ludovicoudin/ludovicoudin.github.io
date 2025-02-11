@@ -17,6 +17,8 @@ listing:
       year: "Year"
 ---
 
+![Keywords of publications](./files/kewords.png){#id .class width=50% height=50%}
+
 ```{=html}
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
