@@ -18,8 +18,12 @@ website:
           href: contact.qmd    
       - text: Research
         menu:
-        - text: List of Publication
+        - text: Publications
           href: publications.qmd
+        - text: Projects
+          href: projects.qmd  
+        - text: PhD supervision
+          href: supervision.qmd  
         - text: Awards
           href: awards.qmd  
       - text: Teaching

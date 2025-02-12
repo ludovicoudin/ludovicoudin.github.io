@@ -12,12 +12,12 @@ Je liste ci-après les modules pour lesquels je me suis investis pour leur momnt
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-2}
+::: {.g-col-12 .g-col-md-4}
 ![](files/Hydrologie_Hydrogeologie.png)
 
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 
 Dans cet enseignement les notions fondamentales en hydrologie et hydrogéologie sont abordées pour des étudiants qui se destinent à une formation fondamentale ou appliquée en sciences de l’eau (hydrologie, hydrogéologie, hydrochimie), mais aussi dans toutes les sciences de la terre et/ou de l’environnement. Autour du cycle de l’Eau, de la notion de bassin versant et de bilan hydrologique, cette UE précise les propriétés physiques et hydrodynamiques des milieux poreux, décrit les types d’aquifères, évalue leur réserve et leur évolution au cours du temps, les méthodes mises en œuvre pour leur exploitation et les processus impliqués dans le transport d’éléments en solution.
 
@@ -33,12 +33,12 @@ Ce module de 3 ECTS est dispensé au niveau Licence 2. J'y participe pour la par
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-2}
+::: {.g-col-12 .g-col-md-4}
 ![](files/Hydrologie_generale_2.png)
 
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 
 L’eau joue un rôle fondamental dans le fonctionnement de notre planète. Les flux d’eau sur les surfaces continentales sont au cœur de nombreux processus naturels, influençant le climat, la biodiversité et les activités humaines. Étudier ces flux permet de mieux comprendre les interactions complexes entre l’atmosphère, les sols, les cours d’eau et les océans. 
 
@@ -56,12 +56,12 @@ Ce module de 3 ECTS est dispensé au niveau Master 1. J'y dispense les cours et 
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-2}
+::: {.g-col-12 .g-col-md-4}
 ![](files/Hydraulique.png)
 
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 
 Ce cours d’hydraulique vous permettra de comprendre les principes des écoulements de fluides, tant théoriques que pratiques. Vous explorerez différentes facettes de l'application des équations de la mécanique des fluides, en abordant par les lois de l'hydrostatique, les comportements des fluides parfaits, les écoulements sous pression avec calcul des pertes de charge, ainsi que les écoulements à surface libre dans les canaux et rivières. Vous aborderez aussi les écoulements rapidement et graduellement variés, en régime permanent.
 

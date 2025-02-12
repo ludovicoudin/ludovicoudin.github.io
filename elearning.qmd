@@ -8,12 +8,12 @@ title: "Enseignements numériques"
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-2}
+::: {.g-col-12 .g-col-md-4}
 ![](files/videos.png)
 
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 
 Vous trouverez sur [la page YouTube du projet e-courses for masters de l'IPSL](https://www.youtube.com/playlist?list=PLuUpnXln5Z56aMka667KcMIS-LvSSViQq) une série de vidéos pédagogiques en hydrologie te hydrogéologie. 
 
@@ -35,12 +35,12 @@ Une animation en time-lapse à partir de photos :
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-2}
+::: {.g-col-12 .g-col-md-4}
 ![](files/elearning.png)
 
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 
 Vous trouverez [ici](https://bookdown.org/lud_oudin/BOOK/) un cours en ligne préparé à partir du projet e-courses for Master de l'IPSL. Le site du cours est en développement...
 
@@ -55,12 +55,12 @@ Vous trouverez [ici](https://bookdown.org/lud_oudin/BOOK/) un cours en ligne pr�
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-2}
+::: {.g-col-12 .g-col-md-4}
 ![](files/shiny.png)
 
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 
 Quelques exemples d'utilisation de l'application Shiny pour l'enseignement :
 

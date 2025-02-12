@@ -1,0 +1,70 @@
+---
+title: "Projets de recherche récents - en cours"
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+
+![](files/hydedseine.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**HydSedSeine (2025-2029)**
+
+Le développement de modèles capables de décrire conjointement le fonctionnement hydro-sédimentaire et biogéochimique des écosystèmes aquatiques peut permettre de quantifier la contribution respective de ces facteurs de contrôles dans l’espace (à l’échelle d’un bassin versant) et dans le temps (variations saisonnières).
+
+La proposition de recherche considérera le territoire ultra-anthropisé du bassin versant de la Seine (76 000 km² incluant la métropole de Paris, France) qui fait l’objet de plus de 30 années de recherche dans le cadre du programme PIREN-Seine. L'objectif sera de revisiter (spatialement et temporellement) les méthodes de quantification du transport des sédiments vers les compartiments aquatiques et d’améliorer la représentation des contrôles hydrologiques et biogéochimiques dans fonctionnement de la Seine et du transport sédimentaire.
+
+:::
+
+:::
+
+
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+
+![](files/inteGREEN.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**inteGREEN (2025-2029)**
+
+Le projet inteGREEN (PI S. Kotthaus) a pour objectif d’étudier la contribution de la végétalisation à la résilience des villes d’une part, et d’étudier la résilience de cette végétalisation face aux pressions climatiques et urbaines d’autre part. C’est un projet multidisciplinaire qui fait partie des programmes et équipements prioritaires de recherche (PEPR) dans le cadre des investissements stratégiques de France 2030. Il est financé par le PEPR Ville Durable et Bâtiments Innovants (VDBI), et implique deux douzaines de partenaires, intégrant équipes de recherche académique, agences et autorités régionales, compagnies privées et fédérations d’entreprises.
+
+:::
+
+:::
+
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+
+![](files/RECRUH.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**RECRUH**
+
+RECRUH (PI P. Brigode) : REConstitution de CRUes Historiques par modélisation hydro-météorologique : quels mécanismes expliquent l’occurrence de périodes riches en crues lors des 170 dernières années ? 
+
+Le projet RECRUH visait à reconstituer, par analogie atmosphérique et modélisation pluie-débit, les débits d’une centaine de bassins versants européens de 1850 à nos jours, ceci afin d’étudier les caractéristiques des crues de manière continue sur cette longue période temporelle.
+
+
+:::
+
+:::
+
+
+
