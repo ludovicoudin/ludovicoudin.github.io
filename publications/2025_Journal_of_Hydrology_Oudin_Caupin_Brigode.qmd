@@ -1,0 +1,16 @@
+---
+title: "Improved predictions in ungauged basins using flood marks"
+author: "Oudin, L., Caupin, R., Brigode, P."
+publication: "Journal Of Hydrology"
+year: 2025
+categories: [Hydrological Model,Prediction in Ungauged basins,Model Calibration]
+doi: https://doi.org/10.1016/j.jhydrol.2025.133145
+---
+
+## Abstract
+
+Hydrological models are crucial for predicting river flow and managing water resources, but they face challenges in ungauged basins where flow data are absent. Since most of the world’s basins are ungauged, regionalization techniques are often employed, which transfer parameters from similar and/or neighboring basins; however, this process frequently yields poor results. This study investigates the use of flood marks, specifically event dates, as alternative data to calibrate hydrological models in ungauged basins. Utilizing over 80,000 flood marks from the French Repères de Crue database, we assess whether these historical records can improve flow predictions in ungauged catchments using the GR4J model. Results suggest that while flood marks alone are insufficient, their combination with neighboring gauged data enhances model performance, indicating the potential for improved hydrological simulations in data-scarce regions.
+
+## Citation
+
+Oudin, L., Caupin, R. & Brigode, P. (2025). Improved predictions in ungauged basins using flood marks. Journal of Hydrology, 657, 133145 https://doi.org/10.1016/j.jhydrol.2025.133145

@@ -1,9 +1,166 @@
 ---
-title: "About"
+title: "About me"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+::: {#hero-heading}
+
+Je suis enseignant-chercheur à Sorbonne université au laboratoire METIS. 
+
+Mes travaux de recherche portent essentiellement sur la modélisation hydrologique à l’échelle dite régionale et s’articulent autour de trois axes : (i) le lien entre hydrologie et climat, (ii) le lien entre hydrologie et état de surface et (iii) des développements méthodologique de modélisation permettant de tenir compte des non-stationnarités climatiques et environnementales.
+
+J'enseigne principalement l'hydrologie et l'hydraulique et suis responsable du parcours Hydrologie, Hydrogéologie et Géochimie environnementale.
+
+
+## Education 
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/Sciences_SU.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+HDR in Hydrology (Oct 2012) **Sorbonne Université** | Paris France
+
+Réalisme physique des modèles hydrologiques
+
+:::
+
+:::
+
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/Agroparistech_INRAE.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+PhD in Hydrology (Sept 2001 - Oct 2004) at **AgroParisTech - INRAE** | Paris, France
+
+Recherche d’un modèle d’évapotranspiration potentielle (ETP) pertinent comme entrée d’un modèle pluie-débit global. Dirigée par Claude Michel et François Anctil <form action="https://theses.hal.science/pastel-00000931/" method="get" target="_blank"><button type="submit">Read PhD</button></form>
+
+Prix de thèse CNFGG et Félicitations du prix Henri Milon 
+
+:::
+
+:::
+
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/Sorbonne-lettres.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+Ms Geography | Sept 2000 - Sept 2001 at **Sorbonne Université** | Paris, France
+
+DEA "Hommes Espace Temps Ressources Environnement"
+
+:::
+
+:::
+
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/ense3.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+Ing. Hydraulics (Sept 1998 - Sept 2000) at **ENSE3** | Grenoble, France
+
+Option : Génie Hydraulique et Ouvrages
+
+:::
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+  
+## Experience
+
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/Sciences_SU.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+**Sorbonne Université - UMR METIS** | Paris, France
+
+Maître de conférences HDR | 2005-Present
+
+Main activities :
+
+- Responsable de l'équipe Hydrosystèmes du laboratoire METIS
+
+- Responsable du parcours de M2 Hydrologie, Hydrogéologie, Géochimie Environnementale
+
+- Responsable de thème Cycle de l'Eau de l'EUR CGS IPSL
+
+
+:::
+
+:::
+
+
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/INRAE.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+**INRAE** | Antony, France
+
+Ingénieur de recherche | 2004-2005
+
+Main activities :
+
+- Développement de modèles de prévisions de crues sur le bassin de la Seine
+
+- Transfert d'outils de modélisation au Service de Prévision des Crues de la DRIEAT
+
+:::
+
+:::
+
+
+
+---
+
+:::
+
