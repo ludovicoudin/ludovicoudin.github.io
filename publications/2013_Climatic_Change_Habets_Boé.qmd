@@ -1,0 +1,16 @@
+---
+title: "Impact of climate change on the hydrogeology of two basins in northern France"
+author: "Habets, F., Boé, J., Déqué, M., Ducharne, A., Gascoin, S., Hachour, A., Martin, E., Pagé, C., Sauquet, E., Terray, L., Thiéry, D., Oudin, L., Viennot, P."
+publication: "Climatic Change"
+year: 2013
+categories: [Hydrological Model,Climate Change,Hydrogeology]
+doi: https://doi.org/10.1007/s10584-013-0934-x
+---
+
+## Abstract
+
+This study presents an analysis of climate-change impacts on the water resources of two basins located in northern France, by integrating four sources of uncertainty: climate modelling, hydrological modelling, downscaling methods, and emission scenarios. The analysis focused on the evolution of the water budget, the river discharges and piezometric heads. Seven hydrological models were used, from lumped rainfall-discharge to distributed hydrogeological models, and led to quite different estimates of the water-balance components. One of the hydrological models, CLSM, was found to be unable to simulate the increased water stress and was, thus, considered as an outlier even though it gave fair results for the present day compared to observations. Although there were large differences in the results between the models, there was a marked tendency towards a decrease of the water resource in the rivers and aquifers (on average in 2050 about −14 % and −2.5 m, respectively), associated with global warming and a reduction in annual precipitation (on average in 2050 +2.1 K and −3 %, respectively). The uncertainty associated to climate models was shown to clearly dominate, while the three others were about the same order of magnitude and 3–4 times lower. In terms of impact, the results found in this work are rather different from those obtained in a previous study, even though two of the hydrological models and one of the climate models were used in both studies. This emphasizes the need for a survey of the climatic-change impact on the water resource.
+
+## Citation
+
+Habets, F., Boé, J., Déqué, M., Ducharne, A., Gascoin, S., Hachour, A., Martin, E., Pagé, C., Sauquet, E., Terray, L., Thiéry, D., Oudin, L., & Viennot, P. (2013). Impact of climate change on the hydrogeology of two basins in northern France. Climatic Change, 121(4), 771–785. https://doi.org/10.1007/s10584-013-0934-x

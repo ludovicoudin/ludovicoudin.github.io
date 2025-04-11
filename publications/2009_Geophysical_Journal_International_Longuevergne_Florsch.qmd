@@ -1,0 +1,16 @@
+---
+title: "Tilt and strain deformation induced by hydrologically active natural fractures: application to the tiltmeters installed in Sainte-Croix-aux-Mines observatory (France)"
+author: "Longuevergne, L., Florsch, N., Boudin, F., Oudin, L., Camerlynck, C."
+publication: "Geophysical Journal International"
+year: 2009
+categories: [Hydrological Model]
+doi: https://doi.org/10.1111/j.1365-246x.2009.04197.x
+---
+
+## Abstract
+
+We investigate the deformation induced by water pressure variations in hydrologically active natural fractures, and recorded by tiltmeters and strainmeters. The deformation associated with a single fracture is derived using finite-element modelling (FEM). A range in fracture geometries is explored, first to highlight the sensitivity of each geometrical parameter to the deformation, and secondly to allow transfer to observation sites. Water level variations in the fracture are then derived from a hydrological model, driven by observed rainfall, and calibrated on fracture water flow measurements. The modelling results are explicitly applied to constrain the local hydrological contribution to observations with the 100-m-long hydrostatic tiltmeter installed at Sainte-Croix-aux-Mines (France). Our study shows that well-founded physical modelling of local hydrological effect allows a substantial correction of records in observatories.
+
+## Citation
+
+Longuevergne, L., Florsch, N., Boudin, F., Oudin, L., & Camerlynck, C. (2009). Tilt and strain deformation induced by hydrologically active natural fractures: application to the tiltmeters installed in Sainte-Croix-aux-Mines observatory (France). Geophysical Journal International, 178(2), 667–677. https://doi.org/10.1111/j.1365-246x.2009.04197.x

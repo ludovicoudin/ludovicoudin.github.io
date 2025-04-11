@@ -1,0 +1,16 @@
+---
+title: "Physically consistent conceptual rainfall–runoff model for urbanized catchments"
+author: "Saadi, M., Oudin, L., Ribstein, P."
+publication: "Journal Of Hydrology"
+year: 2021
+categories: [Hydrological Model,Urban Hydrology,Low-Flows]
+doi: https://doi.org/10.1016/j.jhydrol.2021.126394
+---
+
+## Abstract
+
+Hydrological models should be tested and evaluated for a wide variety of levels of urbanization before they are used to predict the impact of urbanization on catchment behavior. In this study, we illustrate a top–down approach of modifying step by step an hourly conceptual model structure (GR4H) to account for urbanization features. Modifying the original model structure included accounting explicitly for runoff from impervious surfaces by bypassing the soil moisture reservoir and varying the partitioning between quick flow and slow flow. These adaptations were chosen based on the reported specificities of urbanized catchments, namely, decreasing infiltration, increasing runoff, and fast runoff dynamics. Using a split-sample test, the relevance of each modification with regard to the reproduction of catchment response (i.e., observed streamflow) was assessed for a large sample of 273 urbanized catchments, located in France and the United States, for which mean total impervious area (TIA) varied between 0.05 and 0.59. Six continuous and three event-based criteria were used, and two statistical tests were applied to assess the significance of improvements. Results showed the following: (i) Tested modifications improved the ability of the model to reproduce the catchment response, especially high flows and observed streamflow amid dry conditions. (ii) Event-based evaluation using more than 45,000 events showed an improvement in predicting the event peak flow and event runoff volume, whereas no significant improvements were obtained in predicting the timing of peak flow. (iii) Newly added parameters were moderately to highly correlated with TIA, especially the calibrated proportion of impervious surfaces, which is promising as a hydrological validation of estimated urbanization measures from land cover. The tested modifications improved both the representation of urbanization processes and the reproduction of the observed streamflow, yielding a simple and credible model for predicting the impact of future urbanization scenarios on catchment response.
+
+## Citation
+
+Saadi, M., Oudin, L., & Ribstein, P. (2021). Physically consistent conceptual rainfall–runoff model for urbanized catchments. Journal of Hydrology, 599, 126394. https://doi.org/10.1016/j.jhydrol.2021.126394

@@ -1,0 +1,16 @@
+---
+title: "Estimating potential evapotranspiration without continuous daily data: possible errors and impact on water balance simulations"
+author: "Oudin, L., Moulin, L., Bendjoudi, H., Ribstein, P."
+publication: "Hydrological Sciences Journal"
+year: 2010
+categories: [Budyko,Evapotranspiration]
+doi: https://doi.org/10.1080/02626660903546118
+---
+
+## Abstract
+
+Alternative approaches to estimating monthly and annual potential evapotranspiration (PE) are explored in cases where daily climate data are not routinely recorded. A database consisting of data from 222 weather stations, representing a wide variety of climatic conditions, is used to draw general conclusions. In addition, two PE formulae with different data requirements are used: the standard FAO-56 Penman-Monteith equation, and a simple temperature-based equation. First, we tested the degree of bias introduced by using climate data averaged over long time periods instead of daily data. Second, we explored the sensitivity of PE estimation with respect to variations in sampling frequency of climate variables. The results show that using mean weather data has only a limited effect on monthly and annual PE estimates. Conversely, imperfect sampling of weather data may bias monthly and to a lesser extent annual PE estimates if the sampling period exceeds 5 and 10 days, respectively. Finally, we tested the impact of erroneous weather data on the simulations of annual actual evapotranspiration obtained with the Budyko model. The impact on the Budyko model outputs depends more on the dryness index of a given location than on annual PE; for regions under water stress, the errors in estimation of actual evapotranspiration are very limited, compared to humid regions where available energy is the dominating factor and the propagation of PE errors is important. Citation Oudin, L., Moulin, L., Bendjoudi, H. & Ribstein, P. (2010) Estimating potential evapotranspiration without continuous daily data: possible errors and impact on water balance simulations. Hydrol. Sci. J. 55(2), 209–222.
+
+## Citation
+
+Oudin, L., Moulin, L., Bendjoudi, H., & Ribstein, P. (2010). Estimating potential evapotranspiration without continuous daily data: possible errors and impact on water balance simulations. Hydrological Sciences Journal, 55(2), 209–222. https://doi.org/10.1080/02626660903546118

@@ -1,0 +1,16 @@
+---
+title: "Crossing the rural–urban boundary in hydrological modelling: How do conceptual rainfall–runoff models handle the specificities of urbanized catchments?"
+author: "Saadi, M., Oudin, L., Ribstein, P."
+publication: "Hydrological Processes"
+year: 2020
+categories: [Hydrological Model,Urban Hydrology,Low-Flows,Evapotranspiration,Floods]
+doi: https://doi.org/10.1002/hyp.13808
+---
+
+## Abstract
+
+Landscape differences induced by urbanization have prompted hydrologists to define a fuzzy boundary between rural- and urban-specific hydrological models. We addressed the validity of establishing this boundary, by testing two rural models on a large sample of 175 French and United States (US) urbanized catchments, and their 175 rural neighbours. The impact of urbanization on the hydrological behaviour was checked using four metrics. Using a split-sample test, we have compared the performances, parameter distributions, and internal fluxes of GR4H and IHACRES, two conceptual and continuous models running at the hourly time step. Both model structures are based on soil moisture accounting reservoirs (infiltration, runoff, and actual evapotranspiration) and quick flow/slow flow routing components, with no consideration of any specific feature related to urbanization. Results showed: (a) Except for the ratio of streamflow flashiness to precipitation flashiness, the range of hydrological signature metrics in rural catchments encompassed the specificities of urbanized ones. Overall, the urbanized catchments showed higher ratios of mean streamflow to mean precipitation (median values: 0.39 vs. 0.27) and streamflow flashiness to precipitation flashiness (0.13 vs. 0.03), besides lower baseflow index (0.42 vs. 0.62) and shorter characteristic response time (3 vs. 14 hr). (b) The performances of GR4H revealed no significant distinction between rural and urbanized catchments in terms of Kling–Gupta Efficiency (KGE), whereas IHACRES better simulated urbanized catchments, especially during summer. (c) With respect to differences in urbanization level, the GR4H and IHACRES parameters showed different distributions. The differences in parameters were consistent with the differences in hydrological behaviour, which is promising for a model-based assessment of the impact of urbanization. (d) The models agreed less in reproducing the internal fluxes over the urbanized catchments than over the rural ones. These results demonstrate the flexibility of conceptual models to handle the specificities of urbanized catchments.
+
+## Citation
+
+Saadi, M., Oudin, L., & Ribstein, P. (2020). Crossing the rural–urban boundary in hydrological modelling: How do conceptual rainfall–runoff models handle the specificities of urbanized catchments? Hydrological Processes, 34(15), 3331–3346. Portico. https://doi.org/10.1002/hyp.13808

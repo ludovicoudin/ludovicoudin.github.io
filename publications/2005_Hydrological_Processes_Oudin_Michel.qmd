@@ -1,0 +1,16 @@
+---
+title: "Should Bouchet’s hypothesis be taken into account in rainfall‐runoff modelling? An assessment over 308 catchments"
+author: "Oudin, L., Michel, C., Andréassian, V., Anctil, F., Loumagne, C."
+publication: "Hydrological Processes"
+year: 2005
+categories: [Hydrological Model,Evapotranspiration]
+doi: https://doi.org/10.1002/hyp.5874
+---
+
+## Abstract
+
+An implementation of the complementary relationship hypothesis (Bouchet's hypothesis) for estimating regional evapotranspiration within two rainfall-runoff models is proposed and evaluated in terms of streamflow simulation efficiency over a large sample of 308 catchments located in Australia, France and the USA. Complementary relationship models are attractive approaches to estimating actual evapotranspiration because they rely solely on climatic variables. They are even more interesting since they are supported by a conceptual description underlying the interactions between the evapotranspirating surface and the atmospheric boundary layer, which was highlighted by Bouchet (1963). However, these approaches appear to be in contradiction with the methods prevailing in rainfall-runoff models, which compute actual evapotranspiration using soil moisture accounting procedures. The approach adopted in this article is to introduce the estimation of actual evapotranspiration provided by complementary relationship models (complementary relationship for areal evapotranspiration and advection aridity) into two rainfall-runoff models. Results show that directly using the complementary relationship approach to estimate actual evapotranspiration does not give better results than the soil moisture accounting procedures. Finally, we discuss feedback mechanisms between potential evapotranspiration and soil water availability, and their possible impact on rainfall-runoff modelling. Copyright © 2005 John Wiley & Sons, Ltd.
+
+## Citation
+
+Oudin, L., Michel, C., Andréassian, V., Anctil, F., & Loumagne, C. (2005). Should Bouchet’s hypothesis be taken into account in rainfall‐runoff modelling? An assessment over 308 catchments. Hydrological Processes, 19(20), 4093–4106. Portico. https://doi.org/10.1002/hyp.5874

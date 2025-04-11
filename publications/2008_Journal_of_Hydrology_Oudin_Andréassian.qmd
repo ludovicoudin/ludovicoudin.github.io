@@ -1,0 +1,16 @@
+---
+title: "Has land cover a significant impact on mean annual streamflow? An international assessment using 1508 catchments"
+author: "Oudin, L., Andréassian, V., Lerat, J., Michel, C."
+publication: "Journal Of Hydrology"
+year: 2008
+categories: [Evapotranspiration]
+doi: https://doi.org/10.1016/j.jhydrol.2008.05.021
+---
+
+## Abstract
+
+This paper investigates the link between vegetation types and long-term water balance in catchment areas. We focus on the most widely used water balance formulas – or models – that relate long-term annual streamflow to long-term annual rainfall and long-term potential evapotranspiration estimates. Our investigation seeks to assess whether long-term streamflow can be explained by land cover attributes. As all but one of these formulas do not use land cover information, we develop a methodology to introduce land cover information into the models’ formulations. Then, the modified formulas are compared to the original ones in terms of performance and a sensitivity analysis is performed, with a special focus on the parameters representing vegetation characteristics. In line with the global coverage of long-term water balance models, we base our work on as many basins as possible (1508) representing as large a hydroclimatic variety as possible. Results show that introducing additional degrees of freedom within the original formulas improves overall model efficiency, and that land cover information makes only a small but nonetheless significant contribution to this improvement.
+
+## Citation
+
+Oudin, L., Andréassian, V., Lerat, J., & Michel, C. (2008). Has land cover a significant impact on mean annual streamflow? An international assessment using 1508 catchments. Journal of Hydrology, 357(3–4), 303–316. https://doi.org/10.1016/j.jhydrol.2008.05.021

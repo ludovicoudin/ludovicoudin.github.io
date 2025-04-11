@@ -1,0 +1,16 @@
+---
+title: "Improvement of rainfall-runoff forecasts through mean areal rainfall optimization"
+author: "Anctil, F., Lauzon, N., Andréassian, V., Oudin, L., Perrin, C."
+publication: "Journal Of Hydrology"
+year: 2006
+categories: [Hydrological Model,Precipitation]
+doi: https://doi.org/10.1016/j.jhydrol.2006.01.016
+---
+
+## Abstract
+
+Rainfall information is a dominant element in the development of lumped neural network rainfall-runoff forecasting models. In this study, forecasting improvement is sought through the optimization of the mean daily areal rainfall time series. The experimental protocol is structured in two phases. First, the rain gage network is randomly sampled to produce subsets of specific number of rain gages, in order to assess the impact of reduced rainfall knowledge on streamflow forecasting performance. Then, genetic algorithm is used to orient the rain gage combinatorial problem toward improved forecasting performance. The analysis consists of one-day ahead forecast for a mountainous watershed (3234km2) known for its heterogeneous rainfall. Random sampling revealed that median performance diminishes rapidly when 10 rain gages or fewer (out of 23) are used to compute the mean areal rainfall time series. Results also show that some rain gages combinations lead to better forecasts than when all available rain gages are used to estimate the mean areal rainfall. These findings justify the genetic search performed in the second phase of the study. The best performance improvement is achieved when the mean areal rainfall is computed from a specific 12-rain gage combination. Many other combinations also lead to noticeable streamflow forecasting improvements, revealing the complexity of the identification of an optimal sub-network. From an optimization point of view, and through the filter of a lumped neural network rainfall-runoff model, these results show that it may be beneficial to reduce the size of the total rain gage network.
+
+## Citation
+
+Anctil, F., Lauzon, N., Andréassian, V., Oudin, L., & Perrin, C. (2006). Improvement of rainfall-runoff forecasts through mean areal rainfall optimization. Journal of Hydrology, 328(3–4), 717–725. https://doi.org/10.1016/j.jhydrol.2006.01.016

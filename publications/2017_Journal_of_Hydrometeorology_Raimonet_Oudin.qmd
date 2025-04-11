@@ -1,0 +1,16 @@
+---
+title: "Evaluation of Gridded Meteorological Datasets for Hydrological Modeling"
+author: "Raimonet, M., Oudin, L., Thieu, V., Silvestre, M., Vautard, R., Rabouille, C., Le Moigne, P."
+publication: "Journal Of Hydrometeorology"
+year: 2017
+categories: [Hydrological Model,Climate Change]
+doi: https://doi.org/10.1175/jhm-d-17-0018.1
+---
+
+## Abstract
+
+The number and refinement of gridded meteorological datasets are on the rise at the global and regional scales. Although these datasets are now commonly used for hydrological modeling, the representation of precipitation amount and timing is crucial to correctly model streamflow. The Génie Rural à 4 paramètres journalier (GR4J) conceptual hydrological model combined with the CEMANEIGE snow routine was calibrated using four temperature and precipitation datasets [Système d’analyse fournissant des renseignements atmosphériques à la neige (SAFRAN), Mesoscale Analysis (MESAN), E-OBS, and Water and Global Change (WATCH) Forcing Data ERA-Interim (WFDEI)] on 931 French gauged catchments ranging in size from 10 to 10 000 km2. The efficiency of the calibrated hydrological model in simulating streamflow was higher for the models calibrated on high-resolution meteorological datasets (SAFRAN, MESAN) compared to coarse-resolution datasets (E-OBS, WFDEI), as well as for reanalysis (SAFRAN, MESAN, WFDEI) compared to datasets based on interpolation only (E-OBS). The systematic decrease in efficiency associated with precipitation bias or temporality highlights that the use of a hydrological model calibrated on meteorological datasets can assess these datasets, most particularly precipitation. It appears essential that datasets account for high-resolution topography to accurately represent elevation gradients and assimilate dense ground-based observation networks. This is particularly emphasized for hydrological applications in mountainous areas and areas subject to finescale events. For hydrological applications on nonmountainous regions, not subject to finescale events, both regional and global datasets give satisfactory results. It is crucial to continue improving precipitation datasets, especially in mountainous areas, and to assess their sensitivity to eventual corrupted observations. These datasets are essential to correct the bias of climate model outputs and to investigate the impact of climate change on hydrological regimes.
+
+## Citation
+
+Raimonet, M., Oudin, L., Thieu, V., Silvestre, M., Vautard, R., Rabouille, C., & Le Moigne, P. (2017). Evaluation of Gridded Meteorological Datasets for Hydrological Modeling. Journal of Hydrometeorology, 18(11), 3027–3041. https://doi.org/10.1175/jhm-d-17-0018.1

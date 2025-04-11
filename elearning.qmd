@@ -1,0 +1,77 @@
+---
+title: "Enseignements numériques"
+---
+
+
+
+## Vidéos pédagogiques
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](files/videos.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+Vous trouverez sur [la page YouTube du projet e-courses for masters de l'IPSL](https://www.youtube.com/playlist?list=PLuUpnXln5Z56aMka667KcMIS-LvSSViQq) une série de vidéos pédagogiques en hydrologie te hydrogéologie. 
+
+Ci-dessous un exemple tiré du projet d'une vidéo introductive retraçant les débuts de l'hydrologie scientifique:
+
+<p align="center"><iframe width="350" height="197" src="https://www.youtube.com/embed/7EsBEbROmEg?si=rjwH2TzGLYRafuLJ&amp;start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+Une animation en time-lapse à partir de photos : 
+
+<p align="center"><iframe width="350" height="197" src="files/Magnelles_Hydro_MA_small.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+:::
+
+:::
+
+
+
+## Cours en ligne
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](files/elearning.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+Vous trouverez [ici](https://bookdown.org/lud_oudin/hydrologie_generale/) un cours en ligne préparé à partir du projet e-courses for Master de l'IPSL. Le site du cours est en développement...
+
+
+
+:::
+
+:::
+
+
+## Applications Shiny
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](files/shiny.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+Quelques exemples d'utilisation de l'application Shiny pour l'enseignement :
+
+- [Modèles d'infiltration interactifs](https://loudin.shinyapps.io/app_FPROD/) 
+
+- [Changement climatique sur quelques bassins français](https://loudin.shinyapps.io/appCC/) 
+
+- [Visualisation d'évènements de crue sur quelques bassins en France](https://loudin.shinyapps.io/appEvents/) 
+
+
+:::
+
+:::
+  

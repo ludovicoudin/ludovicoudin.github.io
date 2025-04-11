@@ -1,0 +1,16 @@
+---
+title: "Investigating hydrological model versatility to simulate extreme flood events"
+author: "Peredo, D., Ramos, M., Andréassian, V., Oudin, L."
+publication: "Hydrological Sciences Journal"
+year: 2022
+categories: [Hydrological Model,Floods]
+doi: https://doi.org/10.1080/02626667.2022.2030864
+---
+
+## Abstract
+
+We adapted a semi-distributed hydrological model (GRSD) to improve its versatility to simulate flood events occurring under different conditions, especially flash floods after dry summer periods in the Mediterranean region. The adaptation introduces a dependency on rainfall intensity in the production function. The evaluation over 2008–2018 in the Aude catchment (France) showed that the new model structure does not deteriorate long-term model simulations obtained from the original model. The adapted model performed better than or equal to the original model in terms of differences in the timing of peak discharges, regardless of the season of the year when the flood occurs. The most important improvement was observed in the simulation of the magnitude of the flood peaks during autumn floods. A visualization of model versatility allows the detection of the time steps when the new model tends to behave more similarly to or differently from the original model in terms of runoff production.
+
+## Citation
+
+Peredo, D., Ramos, M.-H., Andréassian, V., & Oudin, L. (2022). Investigating hydrological model versatility to simulate extreme flood events. Hydrological Sciences Journal, 67(4), 628–645. https://doi.org/10.1080/02626667.2022.2030864

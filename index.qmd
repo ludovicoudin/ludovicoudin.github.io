@@ -1,11 +1,35 @@
 ---
-title: "ludovicoudin.github.io"
+title: "Ludovic Oudin"
+
+about:
+  id: hero-heading
+  template: solana
+  image: ""
+  links:
+    - icon: envelope
+      text: E-mail Me
+      href: mailto:ludovic.oudin@sorbonne-universite.fr
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ludovic-oudin-84090a271
+    - text: <i class="ai ai-google-scholar-square ai-2x"> </i> Google Scholar
+      href: https://scholar.google.fr/citations?user=Nmj_KbIAAAAJ&hl=fr
+    - text: <i class="ai ai-orcid ai-2x"> </i> Orcid
+      href: https://orcid.org/0000-0002-3712-0933
+    - icon: github
+      text: Github
+      href: https://github.com/ludovicoudin
 ---
 
-This is a Quarto website.
+::: {#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Je suis enseignant-chercheur à Sorbonne université au laboratoire METIS. 
 
-```{r}
-1 + 1
-```
+Mes travaux de recherche portent essentiellement sur la modélisation hydrologique à l’échelle dite régionale et s’articulent autour de trois axes : (i) le lien entre hydrologie et climat, (ii) le lien entre hydrologie et état de surface et (iii) des développements méthodologique de modélisation permettant de tenir compte des non-stationnarités climatiques et environnementales.
+
+J'enseigne principalement l'hydrologie et l'hydraulique et suis responsable du parcours Hydrologie, Hydrogéologie et Géochimie environnementale.
+
+
+
+:::
+

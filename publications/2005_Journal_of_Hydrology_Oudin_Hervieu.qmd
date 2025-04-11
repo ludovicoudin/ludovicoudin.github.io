@@ -1,0 +1,16 @@
+---
+title: "Which potential evapotranspiration input for a lumped rainfall–runoff model?"
+author: "Oudin, L., Hervieu, F., Michel, C., Perrin, C., Andréassian, V., Anctil, F., Loumagne, C."
+publication: "Journal Of Hydrology"
+year: 2005
+categories: [Hydrological Model,Evapotranspiration]
+doi: https://doi.org/10.1016/j.jhydrol.2004.08.026
+---
+
+## Abstract
+
+This research sought to identify the most relevant approach to calculate potential evapotranspiration (PE) for use in a daily rainfall–runoff model, while answering the following question: How can we use available atmospheric variables to represent the evaporative demand at the basin scale? The value of 27 PE models was assessed in terms of streamflow simulation efficiency over a large sample of 308 catchments located in France, Australia and the United States. While trying to identify which atmospheric variables were the most relevant to compute PE as input to rainfall–runoff models, we showed that the formulae based on temperature and radiation tend to provide the best streamflow simulations. Surprisingly, PE approaches based on the Penman approach seem less advantageous to feed rainfall–runoff models. This investigation has resulted in a proposal for a temperature-based PE model, combining simplicity and efficiency, and adapted to four rainfall–runoff models. This PE model only requires mean air temperature (derived from long-term averages) and leads to a slight but steady improvement in rainfall–runoff model efficiency.
+
+## Citation
+
+Oudin, L., Hervieu, F., Michel, C., Perrin, C., Andréassian, V., Anctil, F., & Loumagne, C. (2005). Which potential evapotranspiration input for a lumped rainfall–runoff model? Journal of Hydrology, 303(1–4), 290–306. https://doi.org/10.1016/j.jhydrol.2004.08.026

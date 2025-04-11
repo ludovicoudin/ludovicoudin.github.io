@@ -1,0 +1,16 @@
+---
+title: "Trends in floods in West Africa: analysis based on 11 catchments in the region"
+author: "Nka, B. N., Oudin, L., Karambiri, H., Paturel, J. E., Ribstein, P."
+publication: "Hydrology And Earth System Sciences"
+year: 2015
+categories: [Climate Change,Land-use Changes,Floods]
+doi: https://doi.org/10.5194/hess-19-4707-2015
+---
+
+## Abstract
+
+After the drought of the 1970s in West Africa, the variability in rainfall and land use changes mostly affected flow, and recently flooding has been said to be an increasingly common occurrence throughout the whole of West Africa. These changes have raised many questions about the impact of climate change on the flood regimes in West African countries. This paper investigates whether floods are becoming more frequent or more severe and to what extent climate patterns have been responsible for these changes. We analyzed the trends in the floods occurring in 11 catchments within West Africa's main climate zones. The methodology includes two methods for sampling flood events, namely the AM (annual maximum) method and the POT (peak over threshold), and two perspectives of analysis are presented: long-term analysis based on two long flood time series and a regional perspective involving 11 catchments with shorter series. The Mann–Kendall trend test and the Pettitt break test were used to detect nonstationarities in the time series. The trends detected in flood time series were compared to the rainfall index trends and vegetation indices using contingency tables in order to identify the main driver of change in flood magnitude and flood frequency. The relation between the flood index and the physiographic index was evaluated through a success criterion and the Cramer criterion calculated from the contingency tables. The results show the existence of trends in flood magnitude and flood frequency time series, with two main patterns. Sahelian floods show increasing flood trends and one Sudanian. catchment presents decreasing flood trends. For the overall catchments studied, trends in the maximum 5-day consecutive rainfall index (R5d) show good coherence with trends in flood, while the trends in normalized difference vegetation indices (NDVIs) do not show a significant agreement with flood trends, meaning that this index has possibly no impact on the behavior of floods in the region.
+
+## Citation
+
+Nka, B. N., Oudin, L., Karambiri, H., Paturel, J. E., & Ribstein, P. (2015). Trends in floods in West Africa: analysis based on 11 catchments in the region. Hydrology and Earth System Sciences, 19(11), 4707–4719. https://doi.org/10.5194/hess-19-4707-2015

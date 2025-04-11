@@ -1,0 +1,16 @@
+---
+title: "Sequential assimilation of soil moisture and streamflow data in a conceptual rainfall–runoff model"
+author: "Aubert, D., Loumagne, C., Oudin, L."
+publication: "Journal Of Hydrology"
+year: 2003
+categories: [Hydrological Model,Low-Flows,Floods]
+doi: https://doi.org/10.1016/s0022-1694(03)00229-4
+---
+
+## Abstract
+
+Soil moisture is a key hydrological variable in flood forecasting: it largely influences the partition of rain between runoff and infiltration and thus controls the flow at the outlet of a catchment. The methodology developed in this paper aims at improving the commonly used hydrological tools in an operational forecasting context by introducing soil moisture data into streamflow modelling. A sequential assimilation procedure, based on an extended Kalman filter, is developed and coupled with a lumped conceptual rainfall–runoff model. It updates the internal states of the model (soil and routing reservoirs) by assimilating daily soil moisture and streamflow data in order to better fit these external observations. We present in this paper the results obtained on the Serein, a Seine sub-catchment (France), during a period of about 2 years and using Time Domain Reflectivity probe soil moisture measurements from 0–10 to 0–100 cm and stream gauged data. Streamflow prediction is improved by assimilation of both soil moisture and streamflow individually and by coupled assimilation. Assimilation of soil moisture data is particularly effective during flood events while assimilation of streamflow data is more effective for low flows. Combined assimilation is therefore more adequate on the entire forecasting period. Finally, we discuss the adequacy of this methodology coupled with Remote Sensing data.
+
+## Citation
+
+Aubert, D., Loumagne, C., & Oudin, L. (2003). Sequential assimilation of soil moisture and streamflow data in a conceptual rainfall–runoff model. Journal of Hydrology, 280(1–4), 145–161. https://doi.org/10.1016/s0022-1694(03)00229-4

@@ -1,0 +1,16 @@
+---
+title: "Evolution of Arctic rivers recession flow: Global assessment and data-based attribution analysis"
+author: "Sergeant, F., Therrien, R., Oudin, L., Jost, A., Anctil, F."
+publication: "Journal Of Hydrology"
+year: 2021
+categories: [Climate Change,Low-Flows,Hydrogeology]
+doi: https://doi.org/10.1016/j.jhydrol.2021.126577
+---
+
+## Abstract
+
+Due to polar amplification of climate change, high latitudes are warming up twice as fast as the rest of the world. This warming leads to permafrost thawing, which increases the thickness of the overlying active layer and modifies the subsurface hydrologic regime of the draining watershed, therefore affecting baseflow to surface water and modifying recession characteristics. The active layer thickening and the subsurface flow modification are assumed to be linearly correlated. The objective of this study is to test this assumption by quantifying the correlation between the temporal evolution of hydrologic parameters (recession slope and initial recession outflow) and 11 controlling factors (all linked to surface, subsurface and climatic conditions) for 336 Arctic catchments from 1970 to 2000. Contrary to previous studies, we demonstrate a clear decrease in recession slope and initial recession outflow over 1970–2000 for a majority of catchments at any significance level. We explain this result by identifying high topography and low permafrost extent as controlling factors that complexify the relationship between trends in recession parameters and active layer thickness evolution. The study goes further by identifying the mechanisms behind the complexification of the relationship: permafrost-extent loss, hydrologic-connectivity increase, flow-path-diversity increase, contributing drainage area multiplication. The novel aspect of the study lay behind the large number of studied catchments and the large range of controlling factors tested.
+
+## Citation
+
+Sergeant, F., Therrien, R., Oudin, L., Jost, A., & Anctil, F. (2021). Evolution of Arctic rivers recession flow: Global assessment and data-based attribution analysis. Journal of Hydrology, 601, 126577. https://doi.org/10.1016/j.jhydrol.2021.126577

@@ -1,0 +1,16 @@
+---
+title: "Impacts of Urbanization on Watershed Water Balances Across the Conterminous United States"
+author: "Li, C., Sun, G., Caldwell, P. V., Cohen, E., Fang, Y., Zhang, Y., Oudin, L., Sanchez, G. M., Meentemeyer, R. K."
+publication: "Water Resources Research"
+year: 2020
+categories: [Land-use Changes,Urban Hydrology,Evapotranspiration]
+doi: https://doi.org/10.1029/2019wr026574
+---
+
+## Abstract
+
+Urbanization impacts ecosystem functions and services by fundamentally altering the balances between precipitation, water yield (Q), and evapotranspiration (ET) in watersheds. Accurate quantification of future hydrologic impacts is essential for national urban planning and watershed management decision making. We hypothesize that “hydrologic impacts of urbanization are not created equal” as a result of the large spatial variability in climate and land use/land cover change (LULCC). A monthly water balance model was validated and applied to quantify the hydrologic responses of 81,900 12-digit Hydrologic Unit Code (HUC) watersheds to historical and projected LULC in 2000, 2010, 2050, and 2100 in the conterminous United States (CONUS). Stepwise regression and Geographically Weighted Regression models were used to identify key factors controlling the spatially varied hydrologic impacts across CONUS. Although the simulated impact of future urbanization on mean change in water yield (ΔQ) was small at the national level, significant changes (ΔQ > 50 mm/year) were found in 1,046 and 3,747 watersheds by 2050 and 2100, respectively. Hydrologic responses varied spatially and were more pronounced in the eastern United States. Overall, the impacts of urbanization on water yield were influenced by local climate, previous LULC characteristics, and the magnitude of changes in land use and impervious surfaces. The continued increase in impervious surface, especially in previously urbanized watersheds, and background precipitation contributed most to future ΔQ through both increase in direct runoff and reduction in ET. Effective national-scale integrated watershed management strategies must consider local climatic and LULC conditions to minimize negative hydrologic impacts of urbanization.
+
+## Citation
+
+Li, C., Sun, G., Caldwell, P. V., Cohen, E., Fang, Y., Zhang, Y., Oudin, L., Sanchez, G. M., & Meentemeyer, R. K. (2020). Impacts of Urbanization on Watershed Water Balances Across the Conterminous United States. Water Resources Research, 56(7). Portico. https://doi.org/10.1029/2019wr026574

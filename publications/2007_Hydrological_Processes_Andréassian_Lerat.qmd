@@ -1,0 +1,16 @@
+---
+title: "What is really undermining hydrologic science today?"
+author: "Andréassian, V., Lerat, J., Loumagne, C., Mathevet, T., Michel, C., Oudin, L., Perrin, C."
+publication: "Hydrological Processes"
+year: 2007
+categories: [Hydrological Model]
+doi: https://doi.org/10.1002/hyp.6854
+---
+
+## Abstract
+
+In a commentary published in Hydrological Processes, Beven (2006) revealed that he had been accused by some members of the hydrological community of undermining the reputation of hydrologic science among model end-users. One of the reasons for this accusation was that the gen- eralized likelihood uncertainty estimation (GLUE) methodology—which he introduced in 1992, and which has since received much attention—is considered by some of our colleagues to provide overestimated error bounds for streamﬂow simulations. Since he called on the hydrologic community to contribute to the debate concerning the reasonable or unreasonable character of this charge, we would like to contribute our viewpoint on the following two questions: 1. does the GLUE methodology overestimate the uncertainty of model simulations? 2. what is in fact undermining hydrologic science? Several colleagues have already contributed to this debate and discussed Beven’s commentary. Their contributions have mainly been theoretical in nature and have focused in great detail on uncertainty assessment methods. We will not enter this part of the debate: since the question was on the diminishing reputation of hydrologists among end-users, we will approach the question strictly from the point of view of the end-user, a professional needing to solve a practical problem, requiring a hydrological model to perform either ﬂow simulations or ﬂow forecasts. These two exercises are very different and we suspect that past misunderstandings on the uncertainty estimation issue would have been avoided if authors had clearly deﬁned what type of model application they were discussing. Here, for the sake of simplicity, we will restrict our commentary to the simulation mode.
+
+## Citation
+
+Andréassian, V., Lerat, J., Loumagne, C., Mathevet, T., Michel, C., Oudin, L., & Perrin, C. (2007). What is really undermining hydrologic science today? Hydrological Processes, 21(20), 2819–2822. Portico. https://doi.org/10.1002/hyp.6854

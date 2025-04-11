@@ -1,0 +1,16 @@
+---
+title: "Understanding key factors controlling the duration of river flow intermittency: Case of Burkina Faso in West Africa"
+author: "Belemtougri, A. P., Ducharne, A., Tazen, F., Oudin, L., Karambiri, H."
+publication: "Journal Of Hydrology: Regional Studies"
+year: 2021
+categories: [Low-Flows,Hydrogeology]
+doi: https://doi.org/10.1016/j.ejrh.2021.100908
+---
+
+## Abstract
+
+Study region This study focused mainly on Burkina Faso in West Africa. Study focus This study aims to identify environmental variables that best explain the geographic variations of the flow intermittency regime, focusing on intermittency duration. Discharge data from 49 gauging stations were considered, mostly over large rivers. The mean number of dry months (Ndry¯) was used as a predictor to define four classes of flow intermittency, for which the potential explanatory environmental variables were assessed based on correlation analysis and principal component analysis (PCA). New hydrological insights for the region The first two components (PCs) account for 82 % of the total variance with PC1 (52 %), and most of the catchments with similar flow intermittency are ordered according to PC2 (30 %), predominantly related to catchment permeability. Moreover, permeability was highly correlated with Ndry¯ (r = - 0.75). Results suggest that catchment permeability and catchment areas are the most critical variables in determining flow intermittency classes in Burkina Faso, as the effect of precipitation can be overruled by the ones of permeability, catchment area, and Strahler order. This study is a first step in understanding the controls of river intermittency in data-scarce and poorly gauged regions of West Africa. The identified variables could be used as input in statistical models to predict and map river intermittency and provide valuable information for stream conservation.
+
+## Citation
+
+Belemtougri, A. P., Ducharne, A., Tazen, F., Oudin, L., & Karambiri, H. (2021). Understanding key factors controlling the duration of river flow intermittency: Case of Burkina Faso in West Africa. Journal of Hydrology: Regional Studies, 37, 100908. https://doi.org/10.1016/j.ejrh.2021.100908

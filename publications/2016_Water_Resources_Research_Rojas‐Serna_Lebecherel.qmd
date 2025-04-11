@@ -1,0 +1,16 @@
+---
+title: "How should a rainfall‐runoff model be parameterized in an almost ungauged catchment? A methodology tested on 609 catchments"
+author: "Rojas‐Serna, C., Lebecherel, L., Perrin, C., Andréassian, V., Oudin, L."
+publication: "Water Resources Research"
+year: 2016
+categories: [Hydrological Model,Prediction in Ungauged basins,Model Calibration]
+doi: https://doi.org/10.1002/2015wr018549
+---
+
+## Abstract
+
+This paper examines catchments that are almost ungauged, i.e., catchments for which only a small number of point flow measurements are available. In these catchments, hydrologists may still need to simulate continuous streamflow time series using a rainfall-runoff model, and the methodology presented here allows using few point measurements for model parameterization. The method combines regional information (parameter sets of neighboring gauged stations) and local information (contributed by the point measurements) within a framework where the relative weight of each source of information is made dependent on the number of point measurements available. This approach is tested with two different hydrological models on a set of 609 catchments in France. The results show that on average a few flow measurements can significantly improve the simulation efficiency, and that 10 measurements can reduce the performance gap between the gauged and ungauged situations by more than 50%. The added value of regional information progressively decreases until being almost insignificant when sufficient flow measurements are available. Model parameters tend to come closer to the values obtained by calibration in fully gauged conditions as the number of point flow measurements increases.
+
+## Citation
+
+Rojas‐Serna, C., Lebecherel, L., Perrin, C., Andréassian, V., & Oudin, L. (2016). How should a rainfall‐runoff model be parameterized in an almost ungauged catchment? A methodology tested on 609 catchments. Water Resources Research, 52(6), 4765–4784. Portico. https://doi.org/10.1002/2015wr018549

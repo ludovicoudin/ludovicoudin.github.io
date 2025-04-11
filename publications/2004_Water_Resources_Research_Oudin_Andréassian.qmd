@@ -1,0 +1,16 @@
+---
+title: "Locating the sources of low‐pass behavior within rainfall‐runoff models"
+author: "Oudin, L., Andréassian, V., Perrin, C., Anctil, F."
+publication: "Water Resources Research"
+year: 2004
+categories: [Hydrological Model,Urban Hydrology,Evapotranspiration]
+doi: https://doi.org/10.1029/2004wr003291
+---
+
+## Abstract
+
+The reasons why most rainfall-runoff models appear relatively insensitive to potential evapotranspiration (PE) inputs, compared with rainfall inputs, are investigated. To this aim, a methodology is presented providing detailed tracking of the treatment of PE input by two rainfall-runoff models. Since uncertainties affect both the structures and the inputs of rainfall-runoff models, the analysis is based on synthetic flow data. Standard synthetic streamflow series were generated using a standard PE input. Then, the PE series were corrupted successively by random and autocorrelated errors, and the propagation of these errors through the models' state variables is followed. For comparison, the same methodology was applied to rainfall data. The analysis is focused on two lumped rainfall-runoff models (the GR4J model and a lumped version of TOPMODEL) over a large sample of 308 watersheds. The investigation shows that perturbation errors in the potential evapotranspiration are absorbed by the model's production (soil moisture accounting) reservoir, which controls the water losses from the model. Given the slow variations in the soil moisture accounting reservoir, rainfall-runoff models behave like low-pass filters, absorbing high-frequency variations of PE inputs. In contrast, the models tested here do not smooth the rainfall perturbation.
+
+## Citation
+
+Oudin, L., Andréassian, V., Perrin, C., & Anctil, F. (2004). Locating the sources of low‐pass behavior within rainfall‐runoff models. Water Resources Research, 40(11). Portico. https://doi.org/10.1029/2004wr003291

@@ -1,0 +1,16 @@
+---
+title: "Assessing rainfall global products reliability for water resource management in a tropical volcanic mountainous catchment"
+author: "Dumont, M., Saadi, M., Oudin, L., Lachassagne, P., Nugraha, B., Fadillah, A., Bonjour, J., Muhammad, A., Hendarmawan, ., Dörfliger, N., Plagnes, V."
+publication: "Journal Of Hydrology: Regional Studies"
+year: 2022
+categories: [Precipitation]
+doi: https://doi.org/10.1016/j.ejrh.2022.101037
+---
+
+## Abstract
+
+Study region Water resource management relies fundamentally on our ability to monitor climate forcing variability, especially in tropical mountainous environment where the temporal and spatial variability of rainfall strongly controls the dynamics of the water resource. In West Java Island, rainfall temporal and spatial distribution significantly varies in function of regional climatology and volcanoes morphology while accessibility issues and the complexity of climatic phenomena notably are limitations for reliable rainfall ground instrumentation. Study focus Here, we assess the ability of climate reanalyses (CHELSA and TerraClimate) and satellite products (CHIRPS) in capturing rainfall high resolution spatial variability. The accuracy of rainfall amounts, variability and dynamics of each global product is estimated using the three component of Kling-Gupta efficiency score. As direct statistical comparison is influenced by resolution issues, our approach is completed by a process-based one. The spatial and orographic rainfall patterns of the global products are analyzed according to known climatic phenomena. Hydrological Insights It appears that, TerraClimate provides the most accurate and stable estimation for temporal monitoring. CHIRPS shows consistent rainfall patterns with atmospheric circulation and volcanoes morphology but overestimates overall rainfall amounts. This study presents a methodology for assessing global climatic products over poorly instrumented areas. The results demonstrate that high resolution global products are somewhat interesting for water resources management. However, several temporal and spatial biases still limit their integration for operational purposes.
+
+## Citation
+
+Dumont, M., Saadi, M., Oudin, L., Lachassagne, P., Nugraha, B., Fadillah, A., Bonjour, J.-L., Muhammad, A., Hendarmawan, Dörfliger, N., & Plagnes, V. (2022). Assessing rainfall global products reliability for water resource management in a tropical volcanic mountainous catchment. Journal of Hydrology: Regional Studies, 40, 101037. https://doi.org/10.1016/j.ejrh.2022.101037

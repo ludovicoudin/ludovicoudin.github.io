@@ -1,0 +1,16 @@
+---
+title: "Water cycle modelling strengthened by probabilistic integration of field data for groundwater management of a quite unknown tropical volcanic hydrosystem"
+author: "Dumont, M., Plagnes, V., Lachassagne, P., Guérin, R., Nugraha, B., Mohamad, F., Oudin, L., Fadillah, A., Valdès, D., Brocard, G., Bonjour, J., Saadi, M., Esneu, A., Muhammad, A., Hendarmawan, ., Dörfliger, N."
+publication: "Comptes Rendus. Géoscience"
+year: 2024
+categories: [Hydrological Model,Hydrogeology]
+doi: https://doi.org/10.5802/crgeos.192
+---
+
+## Abstract
+
+Andesitic volcanic hydrosystems in Indonesia are mostly hydrogeologically unknown despite their socio-economic importance. The development of robust and easy-to-implement methodologies to conceptualize and quantify the water cycle components becomes a prerequisite for their sustainable management. We developed a lumped hydrological model to mimic the structure and functioning of a previously unknown hydrosystem located on the flanks of the Salak volcano (West Java). The structure of the aquifers was revealed with electrical resistivity tomography. The distinction between springs fed by the extensive artesian aquifer and others fed by shallow perched aquifers was obtained mostly using hydrochemistry. The elevation of the recharge area was identified using isotopic analysis of spring water. After designing the hydrological model structure, we carried out a probabilistic parameters exploration using the multiple-try differential evolution adaptive Metropolis algorithm to calibrate aquifer discharge. Multiple Markov chains allow a better exploration of the parameter values. The Bayesian approach provides the best water cycle simulation with a parameter uncertainty analysis, improving the accuracy and representation of the water cycle appropriate for previously unknown hydrosystems.
+
+## Citation
+
+Dumont, M., Plagnes, V., Lachassagne, P., Guérin, R., Nugraha, B., Mohamad, F., Oudin, L., Fadillah, A., Valdès, D., Brocard, G., Bonjour, J.-L., Saadi, M., Esneu, A.-S., Muhammad, A., Hendarmawan, & Dörfliger, N. (2024). Water cycle modelling strengthened by probabilistic integration of field data for groundwater management of a quite unknown tropical volcanic hydrosystem. Comptes Rendus. Géoscience, 355(S1), 207–229. https://doi.org/10.5802/crgeos.192

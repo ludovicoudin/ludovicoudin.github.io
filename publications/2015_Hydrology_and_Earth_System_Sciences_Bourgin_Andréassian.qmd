@@ -1,0 +1,16 @@
+---
+title: "Transferring global uncertainty estimates from gauged to ungauged catchments"
+author: "Bourgin, F., Andréassian, V., Perrin, C., Oudin, L."
+publication: "Hydrology And Earth System Sciences"
+year: 2015
+categories: [Hydrological Model,Prediction in Ungauged basins]
+doi: https://doi.org/10.5194/hess-19-2535-2015
+---
+
+## Abstract
+
+Predicting streamflow hydrographs in ungauged catchments is challenging, and accompanying the estimates with realistic uncertainty bounds is an even more complex task. In this paper, we present a method to transfer global uncertainty estimates from gauged to ungauged catchments and we test it over a set of 907 catchments located in France, using two rainfall–runoff models. We evaluate the quality of the uncertainty estimates based on three expected qualities: reliability, sharpness, and overall skill. The robustness of the method to the availability of information on gauged catchments was also evaluated using a hydrometrical desert approach. Our results show that the method presents advantageous perspectives, providing reliable and sharp uncertainty bounds at ungauged locations in a majority of cases.
+
+## Citation
+
+Bourgin, F., Andréassian, V., Perrin, C., & Oudin, L. (2015). Transferring global uncertainty estimates from gauged to ungauged catchments. Hydrology and Earth System Sciences, 19(5), 2535–2546. https://doi.org/10.5194/hess-19-2535-2015

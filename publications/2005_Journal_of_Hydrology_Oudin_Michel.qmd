@@ -1,0 +1,16 @@
+---
+title: "Which potential evapotranspiration input for a lumped rainfall-runoff model?"
+author: "Oudin, L., Michel, C., Anctil, F."
+publication: "Journal Of Hydrology"
+year: 2005
+categories: [Hydrological Model,Evapotranspiration]
+doi: https://doi.org/10.1016/j.jhydrol.2004.08.025
+---
+
+## Abstract
+
+Evapotranspiration is a major component of the catchment water balance and potential evapotranspiration (PE) data should therefore be a key input to rainfall-runoff models. Nevertheless, it is common to use mean PE (i.e. the same seasonally variable PE, identically repeated each year) instead of temporally varying PE as input to rainfall-runoff models, due to the scarcity of meteorological data. This article investigates the validity of using mean PE instead of temporally varying PE as input to four different daily rainfall-runoff models. The investigation focuses on Penman PE estimates. The value of PE inputs for rainfall-runoff modelling is assessed in terms of streamflow simulation efficiency over a large sample of 308 catchments located in France, Australia and the United States. We found no systematic improvements in the rainfall-runoff model efficiencies when using temporally varying PE instead of mean PE, and we conclude that the insensitivity of rainfall-runoff models to detailed PE knowledge may bring into question the very concept of PE.
+
+## Citation
+
+Oudin, L., Michel, C., & Anctil, F. (2005). Which potential evapotranspiration input for a lumped rainfall-runoff model? Journal of Hydrology, 303(1–4), 275–289. https://doi.org/10.1016/j.jhydrol.2004.08.025

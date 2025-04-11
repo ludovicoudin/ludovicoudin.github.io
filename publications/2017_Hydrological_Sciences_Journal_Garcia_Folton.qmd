@@ -1,0 +1,16 @@
+---
+title: "Which objective function to calibrate rainfall–runoff models for low-flow index simulations?"
+author: "Garcia, F., Folton, N., Oudin, L."
+publication: "Hydrological Sciences Journal"
+year: 2017
+categories: [Hydrological Model,Low-Flows]
+doi: https://doi.org/10.1080/02626667.2017.1308511
+---
+
+## Abstract
+
+Much has been written on the subject of objective functions to calibrate rainfall–runoff models. Many studies focus on the best choice for low-flow simulations or different multi-objective purposes. Only a few studies, however, investigate objective functions to optimize the simulations of low-flow indices that are important for water management. Here, we test different objective functions, from single objective functions with different discharge transformations or using low-flow indices, to combinations of single objective functions, and we evaluate their robustness and sensitivity to the rainfall–runoff model. We find that the Kling and Gupta efficiency (KGE) applied to a transformation of discharge is inadequate to fulfil all assessment criteria, whereas the mean of the KGE applied to the discharge and the KGE applied to the inverse of the discharge is sufficient. The robustness depends on the climate variability rather than the objective function and the results are insensitive to the model.EDITOR A. Castellarin; ASSOCIATE EDITOR C. Perrin EDITOR A. Castellarin; ASSOCIATE EDITOR C. Perrin
+
+## Citation
+
+Garcia, F., Folton, N., & Oudin, L. (2017). Which objective function to calibrate rainfall–runoff models for low-flow index simulations? Hydrological Sciences Journal, 62(7), 1149–1166. https://doi.org/10.1080/02626667.2017.1308511

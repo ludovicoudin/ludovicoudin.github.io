@@ -1,0 +1,16 @@
+---
+title: "HESS Opinions &amp;quot;Crash tests for a standardized evaluation of hydrological models&amp;quot;"
+author: "Andréassian, V., Perrin, C., Berthet, L., Le Moine, N., Lerat, J., Loumagne, C., Oudin, L., Mathevet, T., Ramos, M., Valéry, A."
+publication: "Hydrology And Earth System Sciences"
+year: 2009
+categories: [Hydrological Model]
+doi: https://doi.org/10.5194/hess-13-1757-2009
+---
+
+## Abstract
+
+As all hydrological models are intrinsically limited hypotheses on the behaviour of catchments, models – which attempt to represent real-world behaviour – will always remain imperfect. To make progress on the long road towards improved models, we need demanding tests, i.e. true crash tests. Efficient testing requires large and varied data sets to develop and assess hydrological models, to ensure their generality, to diagnose their failures, and ultimately, help improving them.
+
+## Citation
+
+Andréassian, V., Perrin, C., Berthet, L., Le Moine, N., Lerat, J., Loumagne, C., Oudin, L., Mathevet, T., Ramos, M.-H., & Valéry, A. (2009). HESS Opinions &amp;quot;Crash tests for a standardized evaluation of hydrological models&amp;quot; Hydrology and Earth System Sciences, 13(10), 1757–1764. https://doi.org/10.5194/hess-13-1757-2009

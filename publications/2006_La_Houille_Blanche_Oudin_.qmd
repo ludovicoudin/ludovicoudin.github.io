@@ -1,0 +1,16 @@
+---
+title: "Une formule simple d’évapotranspiration potentielle pour la modélisation pluie-débit à l’échelle du bassin versant"
+author: "Oudin, L."
+publication: "La Houille Blanche"
+year: 2006
+categories: [Hydrological Model,Evapotranspiration]
+doi: https://doi.org/10.1051/lhb:2006109
+---
+
+## Abstract
+
+This article presents a synthesis of a research carried out on the use of potential evapotranspiration (PE) within rainfall-runoff models. Tests were performed with four rainfall-runoff models over 308 catchments, in order to draw conclusions of relatively general reach. We attempted to answer the three following questions: How to judge the relevance of a potential evapotranspiration formulation at the catchment-scale? Which temporal and spatial resolution of PE is needed for rainfall-runoff modelling? Which atmospheric variables are needed to represent PE as input to rainfall-runoff models? These questions are likely to be of interest for both end-users of rainfall-runoff models and modellers. Our results make us propose a simple potential evapotranspiration formulation to be used as input to lumped rainfall-runoff models.
+
+## Citation
+
+Oudin, L. (2006). Une formule simple d’évapotranspiration potentielle pour la modélisation pluie-débit à l’échelle du bassin versant. La Houille Blanche, 92(6), 113–120. https://doi.org/10.1051/lhb:2006109

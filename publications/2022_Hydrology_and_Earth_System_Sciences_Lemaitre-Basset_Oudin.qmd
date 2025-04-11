@@ -1,0 +1,16 @@
+---
+title: "Unraveling the contribution of potential evaporation formulation to uncertainty under climate change"
+author: "Lemaitre-Basset, T., Oudin, L., Thirel, G., Collet, L."
+publication: "Hydrology And Earth System Sciences"
+year: 2022
+categories: [Hydrological Model,Climate Change,Evapotranspiration]
+doi: https://doi.org/10.5194/hess-26-2147-2022
+---
+
+## Abstract
+
+The increasing air temperature in a changing climate will impact actual evaporation and have consequences for water resource management in energy-limited regions. In many hydrological models, evaporation is assessed using a preliminary computation of potential evaporation (PE), which represents the evaporative demand of the atmosphere. Therefore, in impact studies, the quantification of uncertainties related to PE estimation, which can arise from different sources, is crucial. Indeed, a myriad of PE formulations exist, and the uncertainties related to climate variables cascade into PE computation. To date, no consensus has emerged on the main source of uncertainty in the PE modeling chain for hydrological studies. In this study, we address this issue by setting up a multi-model and multi-scenario approach. We used seven different PE formulations and a set of 30 climate projections to calculate changes in PE. To estimate the uncertainties related to each step of the PE calculation process, namely Representative Concentration Pathway (RCP) scenarios, general circulation models (GCMs), regional climate models (RCMs) and PE formulations, an analysis of variance (ANOVA) decomposition was used. Results show that mean annual PE will increase across France by the end of the century (from +40 to +130 mm y−1). In ascending order, uncertainty contributions by the end of the century are explained by PE formulations (below 10 %), RCPs (above 20 %), RCMs (30 %–40 %) and GCMs (30 %–40 %). However, under a single scenario, the contribution of the PE formulation is much higher and can reach up to 50 % of the total variance. All PE formulations show similar future trends, as climatic variables are co-dependent with respect to temperature. While no PE formulation stands out from the others, the Penman–Monteith formulation may be preferred in hydrological impact studies, as it is representative of the PE formulations' ensemble mean and allows one to account for the coevolution of climate and environmental drivers.
+
+## Citation
+
+Lemaitre-Basset, T., Oudin, L., Thirel, G., & Collet, L. (2022). Unraveling the contribution of potential evaporation formulation to uncertainty under climate change. Hydrology and Earth System Sciences, 26(8), 2147–2159. https://doi.org/10.5194/hess-26-2147-2022

@@ -1,0 +1,16 @@
+---
+title: "Ensemble precipitation estimates based on an assessment of 21 gridded precipitation datasets to improve precipitation estimations across Madagascar"
+author: "Ollivier, C. C., Carrière, S. D., Heath, T., Olioso, A., Rabefitia, Z., Rakoto, H., Oudin, L., Satgé, F."
+publication: "Journal Of Hydrology: Regional Studies"
+year: 2023
+categories: [Precipitation]
+doi: https://doi.org/10.1016/j.ejrh.2023.101400
+---
+
+## Abstract
+
+Study region this study focuses on Madagascar. This island is characterized by a great diversity of climate, due to trade winds and the varying topography. This country is also undergoing extreme rainfall events such as droughts and cyclones. Study focus the rain gauge network of Madagascar is limited (about 30 stations). Consequently, we consider relevant satellite-based precipitation datasets to fill gaps in ground-based datasets. We assessed the reliability of 21 satellite-based and reanalysis precipitation products (P-datasets) through a direct comparison with 24 rain gauge station measurements at the monthly time step, using four statistical indicators: Kling-Gupta Efficiency (KGE), Correlation Coefficient (CC), Root Mean Square Error (RMSE), and Bias. Based on this first analysis, we produced a merged dataset based on a weighted average of the 21 products. New hydrological insights for the region based on the KGE and the CC scores, WFDEI (WATCH Forcing Data methodology applied to ERA-Interim), CMORPH-BLD (Climate Prediction Center MORPHing satellite-gauge merged) and MSWEP (Multi-Source Weighted Ensemble Precipitation) are the most accurate for estimating rainfall at the national scale. Additionally, the results reveal a high discrepancy between bio-climatic regions. The merged dataset reveals higher performance than the other products in all situations. These results demonstrate the usefulness of a merging approach in an area with a deficit of rainfall data and a climatic and topographic diversity.
+
+## Citation
+
+Ollivier, C. C., Carrière, S. D., Heath, T., Olioso, A., Rabefitia, Z., Rakoto, H., Oudin, L., & Satgé, F. (2023). Ensemble precipitation estimates based on an assessment of 21 gridded precipitation datasets to improve precipitation estimations across Madagascar. Journal of Hydrology: Regional Studies, 47, 101400. https://doi.org/10.1016/j.ejrh.2023.101400

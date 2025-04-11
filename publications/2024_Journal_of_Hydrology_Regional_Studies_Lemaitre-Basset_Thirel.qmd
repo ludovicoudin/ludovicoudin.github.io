@@ -1,0 +1,16 @@
+---
+title: "Water use scenarios versus climate change: Investigating future water management of the French part of the Moselle"
+author: "Lemaitre-Basset, T., Thirel, G., Oudin, L., Dorchies, D."
+publication: "Journal Of Hydrology: Regional Studies"
+year: 2024
+categories: [Climate Change,Low-Flows]
+doi: https://doi.org/10.1016/j.ejrh.2024.101855
+---
+
+## Abstract
+
+Study region: French part of the Moselle catchment Study focus: By relying on hydrological simulations forced by climate change scenarios, stakeholders can assess the magnitude of future changes in the rainfall–runoff relationship. The inclusion of human influences in water resources modelling in a non-stationary context is a way to improve the accuracy and usefulness of climate change impact studies. Here, we propose a modelling approach that explicitly considers water uses to evaluate adaptation measures for water management at the French Moselle catchment scale. New hydrological insights for the region: The results highlight the decrease in future low flows but also the change in the balance between demand and supply. Over the Moselle catchment, whatever the water use scenario considered, climate change induces lower water availability both for environmental flows and for human uses. This leads to a potential increase in the duration of water restriction of up to 8 weeks for RCP 8.5 in the long term (2070–2099) compared to 1976–2005. This study could provide water managers with more appropriate climate impact results and potentially help them to design adequate adaptation measures.
+
+## Citation
+
+Lemaitre-Basset, T., Thirel, G., Oudin, L., & Dorchies, D. (2024). Water use scenarios versus climate change: Investigating future water management of the French part of the Moselle. Journal of Hydrology: Regional Studies, 54, 101855. https://doi.org/10.1016/j.ejrh.2024.101855

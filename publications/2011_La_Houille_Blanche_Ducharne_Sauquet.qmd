@@ -1,0 +1,16 @@
+---
+title: "Évolution potentielle du régime des crues de la Seine sous changement climatique"
+author: "Ducharne, A., Sauquet, E., Habets, F., Deque, M., Gascoin, S., Hachour, A., Martin, E., Oudin, L., Page, C., Terray, L., Thiery, D., Viennot, P."
+publication: "La Houille Blanche"
+year: 2011
+categories: [Hydrological Model,Climate Change,Floods]
+doi: https://doi.org/10.1051/lhb/2011006
+---
+
+## Abstract
+
+Nous avons régionalisé 12 scénarios de changement climatique d’origine anthropique dans le bassin de la Seine, pour servir en entrée de 5 modèles hydrologiques différents. Les scénarios hydrologiques résultants s’accordent tous sur un assèchement prononcé des bassins étudiés d’ici à la fin du 21ème siècle, avec une baisse des nappes et des débits en moyenne annuelle. A l’échelle saisonnière, la baisse des débits se répercute davantage sur les basses eaux que sur les hautes eaux, dont la baisse est moins robuste. La réponse des valeurs extrêmes est plus contrastée, et les crues extrêmes, identifiées par les quantiles décennaux QJXA10, ne changeraient pas significativement au cours du 21ème siècle. Nos résultats suggèrent aussi que la crue centennale, extrapolée selon la méthode du gradex, resterait du même ordre de grandeur qu’actuellement. We regionalized 12 different scenarios of anthropogenic climate change in the Seine River basin, which were used as input to 5 different hydrological models. The resulting hydrological scenarios all agree on a marked depletion of the water resources during the 21st century, with an annual mean decrease in both water table level and river discharge. At the seasonal scale, the reduction of river flow is more marked on low than on high flows, the decrease of which is also less robust. The response of extreme flows is even more contrasted, and the QJXA10 high-flow quantile (annual daily maximum with an average return period of 10 years) would not change significantly during the 21st century. Our results also suggest that the 100-year flood, extrapolated using the gradex method, would remain of the same order of magnitude as today.
+
+## Citation
+
+Ducharne, A., Sauquet, E., Habets, F., Deque, M., Gascoin, S., Hachour, A., Martin, E., Oudin, L., Page, C., Terray, L., Thiery, D., & Viennot, P. (2011). Évolution potentielle du régime des crues de la Seine sous changement climatique. La Houille Blanche, 97(1), 51–57. https://doi.org/10.1051/lhb/2011006

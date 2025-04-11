@@ -1,0 +1,16 @@
+---
+title: "Seeking genericity in the selection of parameter sets: Impact on hydrological model efficiency"
+author: "Andréassian, V., Bourgin, F., Oudin, L., Mathevet, T., Perrin, C., Lerat, J., Coron, L., Berthet, L."
+publication: "Water Resources Research"
+year: 2014
+categories: [Hydrological Model,Model Calibration]
+doi: https://doi.org/10.1002/2013wr014761
+---
+
+## Abstract
+
+This paper evaluates the use of a small number of generalist parameter sets as an alternative to classical calibration. Here parameter sets are considered generalist when they yield acceptable performance on a large number of catchments. We tested the genericity of an initial collection of 106 parameter sets sampled in the parameter space for the four-parameter GR4J rainfall-runoff model. A short list of 27 generalist parameter sets was obtained as a good compromise between model efficiency and length of the short list. A different data set was used for an independent evaluation of a calibration procedure, in which the search for an optimum parameter set is only allowed within this short list. In validation mode, the performance obtained is inferior to that of a classical calibration, but when the amount of data available for calibration is reduced, the generalist parameter sets become progressively more competitive, with better results for calibration series shorter than 1 year.
+
+## Citation
+
+Andréassian, V., Bourgin, F., Oudin, L., Mathevet, T., Perrin, C., Lerat, J., Coron, L., & Berthet, L. (2014). Seeking genericity in the selection of parameter sets: Impact on hydrological model efficiency. Water Resources Research, 50(10), 8356–8366. Portico. https://doi.org/10.1002/2013wr014761

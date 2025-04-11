@@ -1,0 +1,16 @@
+---
+title: "Multidimensional analysis of NDVI dynamics in response to climate and land use/land cover change in Northwest Algeria"
+author: "Mahcer, I., Baahmed, D., Oudin, L., Chemirik, C. H. K."
+publication: "Journal Of Hydrology And Hydromechanics"
+year: 2024
+categories: [Climate Change,Land-use Changes]
+doi: https://doi.org/10.2478/johh-2024-0020
+---
+
+## Abstract
+
+Climate change has emerged as a major concern at both regional and global scales in recent decades. Northwestern Algeria is particularly vulnerable as a semi-arid zone, where changes in climate and land cover (LC) will have a significant impact on vegetation in the long term. This study analyses, through a multidimensional approach, the influence of climate change and LC on vegetation dynamics. Hierarchical partitioning (HP) analysis was conducted to determine the most influential climatic variables (precipitation, temperature) on the dynamics of NDVI. The results show that the annual NDVI shows a fluctuating spatial trend between decrease and increase in different regions. Trends in seasonal NDVI are spatially varied and less uniform. Variations in precipitation are stable, while temperatures show clear and consistent significant increases across the region, with a general tendency to increase (p<0.01) in spring and summer. In mountainous areas, NDVI shows an increasing trend both annually and seasonally. The correlation (r²) between NDVI, temperature and precipitation (0.75–1.0) over the different seasons reveals significant seasonal and regional variability. LC transition patterns also influence spatio-temporal trends in vegetation cover. They reveal that the rate of change of NDVI varies between LC types and regions, with resilience in forests and grasslands. These variations have significant implications for vegetation dynamics, as observed by NDVI.
+
+## Citation
+
+Mahcer, I., Baahmed, D., Oudin, L., & Chemirik, C. H. K. (2024). Multidimensional analysis of NDVI dynamics in response to climate and land use/land cover change in Northwest Algeria. Journal of Hydrology and Hydromechanics, 72(4), 399–412. https://doi.org/10.2478/johh-2024-0020

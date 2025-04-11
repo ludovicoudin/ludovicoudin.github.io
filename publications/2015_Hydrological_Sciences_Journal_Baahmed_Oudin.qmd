@@ -1,0 +1,16 @@
+---
+title: "Current runoff variations in the Macta catchment (Algeria): is climate the sole factor?"
+author: "Baahmed, D., Oudin, L., Errih, M."
+publication: "Hydrological Sciences Journal"
+year: 2015
+categories: [Hydrological Model]
+doi: https://doi.org/10.1080/02626667.2014.975708
+---
+
+## Abstract
+
+The first objective of this paper is to analyse the trends and change points in the hydroclimatic time series of five representative sub-catchments of the Macta basin, which lies in western Algeria. The second objective is to quantify the role of climate on the trends observed in annual flow time series. This is achieved using hydrological modelling at the multi-annual time step using the Schreiber formulation. The results showed no significant trends on annual rainfall in the 1975–2005 period, a significant increase of temperature and different flow responses to the latter, depending on the catchment considered. Two out of five catchments considered presented a significant flow decrease in the 1975–2005 period with a change point at the beginning of the 1990s. Modelling results suggest that the increase of air temperature is not the sole factor explaining the decrease of annual flow time series in these two catchments.
+
+## Citation
+
+Baahmed, D., Oudin, L., & Errih, M. (2015). Current runoff variations in the Macta catchment (Algeria): is climate the sole factor? Hydrological Sciences Journal, 60(7–8), 1331–1339. https://doi.org/10.1080/02626667.2014.975708

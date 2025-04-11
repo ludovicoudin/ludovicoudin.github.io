@@ -1,0 +1,16 @@
+---
+title: "Assimilation of soil moisture into hydrological models for flood forecasting: a variational approach"
+author: "Oudin, L., Weisse, A., Loumagne, C., Hégarat-Mascle, S. L."
+publication: "Canadian Journal Of Remote Sensing"
+year: 2003
+categories: [Hydrological Model,Floods]
+doi: https://doi.org/10.5589/m03-038
+---
+
+## Abstract
+
+The objectives of this paper are to present a procedure for parameter updating that can be combined with any conceptual rainfall–runoff model for flood-forecasting purposes and to study the improvements in flood forecasting induced by the assimilation of soil moisture information into rainfall–runoff models. The main feature of this methodology is that it carries out updating by reference to not only recent streamflow observations, as in the case of classic procedures, but also soil moisture measurements, which can be retrieved either from time domain reflectometry (TDR) probes or from satellite remote sensing using synthetic aperture radar (SAR) systems. The aim of the research was to assess the usefulness of this additional soil moisture information. To this end, an approach has been suggested that gradually introduces the additional information and can detect a threshold above which this information benefits the whole flood-forecasting procedure. This methodology was put forward for use in the European AIMWATER project on four catchments within the Seine River basin upstream from Paris and on the Arade catchment in southern Portugal.
+
+## Citation
+
+Oudin, L., Weisse, A., Loumagne, C., & Hégarat-Mascle, S. L. (2003). Assimilation of soil moisture into hydrological models for flood forecasting: a variational approach. Canadian Journal of Remote Sensing, 29(6), 679–686. https://doi.org/10.5589/m03-038

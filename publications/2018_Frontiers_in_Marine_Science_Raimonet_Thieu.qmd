@@ -1,0 +1,16 @@
+---
+title: "Landward Perspective of Coastal Eutrophication Potential Under Future Climate Change: The Seine River Case (France)"
+author: "Raimonet, M., Thieu, V., Silvestre, M., Oudin, L., Rabouille, C., Vautard, R., Garnier, J."
+publication: "Frontiers In Marine Science"
+year: 2018
+categories: [Hydrological Model,Climate Change,Low-Flows,Nutrients]
+doi: https://doi.org/10.3389/fmars.2018.00136
+---
+
+## Abstract
+
+<p>Studies quantifying the impact of climate change have so far mostly examined atmospheric variables, and few are evaluating the cascade of aquatic impacts that will occur along the land–ocean continuum until the ultimate impacts on coastal eutrophication potential. In this study, a new hydro-biogeochemical modeling chain has been developed, based on the coupling of the generic pyNuts-Riverstrahler biogeochemical model and the GR4J-CEMANEIGE hydrological model, and applied to the Seine River basin (France). Averaged responses of biogeochemical variables to climate-induced hydrological changes were assessed using climate forcing based on 12 projections of precipitation and temperature (BC-CORDEX) for the stabilization (RCP 4.5) and the increasing (RCP 8.5) CO<sub>2</sub> emission scenarios. Beyond the amount of nutrients delivered to the sea, we calculated the indicator of coastal eutrophication potential (ICEP). The models run with the RCP4.5 stabilization scenario show low variations in hydrological regimes and water quality, while five of the six models run with the increasing CO<sub>2</sub> emissions scenario (RCP8.5) leads to more intense extreme streamflow (i.e., higher maximum flows, lower and longer minimum flows), resulting in the degradation of water quality. For the driest RCP 8.5 projection, median biogeochemical impacts induced by decreasing discharge (until −270 m<sup>3</sup> s<sup>−1</sup> in average) are mostly located downstream of major wastewater treatment plants. During spring bloom, e.g., in May, the associated higher residence time leads to an increase of phytoplankton biomass (+31% in average), with a simultaneous −23% decrease of silicic acid, followed downstream by a −9% decrease of oxygen. Later during low flow, major increases in nitrate and phosphate concentrations (until +19% and +32% in average) are expected. For all considered scenarios, high ICEP values (above zero) lasted, indicating that coastal eutrophication is not expected to decrease with changing hydrological conditions in the future. Maximum values are even expected to be higher some years. This study deliberately evaluates the impact of modified hydrology on biogeochemistry without considering the simultaneous alteration of water temperatures, in order to disentangle the causes of climate change-induced impact. It will serve as a first comparative step toward a more complete modeling experiment of climate change impacts on aquatic systems.</p>
+
+## Citation
+
+Raimonet, M., Thieu, V., Silvestre, M., Oudin, L., Rabouille, C., Vautard, R., & Garnier, J. (2018). Landward Perspective of Coastal Eutrophication Potential Under Future Climate Change: The Seine River Case (France). Frontiers in Marine Science, 5. https://doi.org/10.3389/fmars.2018.00136

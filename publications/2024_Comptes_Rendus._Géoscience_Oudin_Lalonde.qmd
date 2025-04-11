@@ -1,0 +1,16 @@
+---
+title: "Pitfalls of space-time trading when parametrizing a land use dependent hydrological model"
+author: "Oudin, L., Lalonde, M."
+publication: "Comptes Rendus. Géoscience"
+year: 2024
+categories: [Hydrological Model,Budyko,Climate Change,Land-use Changes,Urban Hydrology,Evapotranspiration]
+doi: https://doi.org/10.5802/crgeos.146
+---
+
+## Abstract
+
+Evaporation is a function of both climate conditions and other environmental conditions, including land use. In the context of large-scale environmental changes, understanding the relative impacts of each driver of past and future evaporation changes is necessary for land and water planning. While climate change impacts on evaporation can be estimated straightforwardly by original Budyko formulations, including the role of land use within these formulations remains an open question. In this paper, we collected an extensive set of 5026 worldwide catchments to parametrize a land use dependent Budyko-type formulation. By trading space for time, we then assess the potentialities of the proposed formulation in predicting the impacts of land use changes on the evaporation changes. Results show a clear modulation of land use on evapotranspiration, suggesting larger and lower evaporation rates over croplands and urban areas respectively. The proposed formulation was able to reasonably predict the magnitude of the decrease of the evaporative ratio on urbanizing catchments, but fails to efficiently predict the hydrological impacts of vegetated land use conversions, both in terms of direction and magnitude of changes. This suggests either the proposed formulation is too crude, or the underlying hypotheses of space-time trading are not valid.
+
+## Citation
+
+Oudin, L., & Lalonde, M. (2024). Pitfalls of space-time trading when parametrizing a land use dependent hydrological model. Comptes Rendus. Géoscience, 355(S1), 99–115. https://doi.org/10.5802/crgeos.146

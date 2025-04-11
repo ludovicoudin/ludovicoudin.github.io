@@ -1,0 +1,16 @@
+---
+title: "Modeling approaches to detect land-use changes: Urbanization analyzed on a set of 43 US catchments"
+author: "Salavati, B., Oudin, L., Furusho-Percot, C., Ribstein, P."
+publication: "Journal Of Hydrology"
+year: 2016
+categories: [Hydrological Model,Land-use Changes,Urban Hydrology,Low-Flows]
+doi: https://doi.org/10.1016/j.jhydrol.2016.04.010
+---
+
+## Abstract
+
+Paired catchment approach probably provides the most robust method to detect the effects of land-use change on catchments’ flow characteristics. This approach is limited by the availability of two neighbor catchments with and without land-use change under similar climate conditions. This paper uses a hydrological model to detect the hydrological change caused by urbanization. This study describes (1) use a statistical method to evaluate change detection relative to variation of land use change, (2) simulation of non-urban condition for the urban catchment with an alternative approach, to this aim stream flow series of urban catchments have been reconstructed from the period that urbanization had not taken place yet, and (3) the model validation with observed data. This paper intends to compare the flow changes detected by two different approaches: a regional statistical approach (the paired-catchment approach) and a conceptual modeling approach (the residual approach) on the particular case of urbanized catchments. To investigate the sensitivity of the results to the settings of both approaches, the comparison is made on a relatively large number of 43 catchments located in the United States, with relatively large gradients in terms of geomorphology and hydroclimatic characteristics. Results show that the two approaches are generally in relative good agreement in terms of detection and quantification of changes for the three flow characteristics analyzed (mean annual flow, high and low flow characteristics). Besides, it is found that the impact of urbanization on the catchment’s hydrologic response is difficult to generalize: the proportion of nonsignificant trends, significantly increasing decreasing trends are on the same order of magnitude, even if an increase in urban areas generally has a greater impact on mean flows and high flows than on low flows.
+
+## Citation
+
+Salavati, B., Oudin, L., Furusho-Percot, C., & Ribstein, P. (2016). Modeling approaches to detect land-use changes: Urbanization analyzed on a set of 43 US catchments. Journal of Hydrology, 538, 138–151. https://doi.org/10.1016/j.jhydrol.2016.04.010

@@ -1,0 +1,16 @@
+---
+title: "Beyond Imperviousness: The Role of Antecedent Wetness in Runoff Generation in Urbanized Catchments"
+author: "Saadi, M., Oudin, L., Ribstein, P."
+publication: "Water Resources Research"
+year: 2020
+categories: [Urban Hydrology]
+doi: https://doi.org/10.1029/2020wr028060
+---
+
+## Abstract
+
+Explaining the response of catchments with a mix of pervious and impervious surfaces requires the inclusion of controls other than catchment imperviousness. In this study, we made use of a large sample of 70,227 events in 852 U.S. catchments to analyze the interplay of total impervious area (TIA) and antecedent soil moisture (ASM) in determining the event runoff ratio (RR). First, we investigated the importance of TIA as a spatial control compared to other catchment attributes (describing climate and catchment landscape) in explaining the differences between catchments in terms of median event-scale RR. Second, we examined the importance of ASM as a temporal control of the variability of RR in comparison with spatial settings and event characteristics. Third, events were grouped into 30 classes of TIA and 30 classes of ASM, and linear regression models were used to analyze the evolution of RR depending on each one of the two independent variables. Results showed the following: (1) Analysis of the importance of space-varying catchment descriptors highlighted the relevance of TIA as a control of catchment response, whereas ASM showed a stronger ability compared to other event characteristics. (2) ASM played a significant role in urbanized catchments as in rural ones. The absence of abrupt changes in the linear model parameters indicates that the impact of urbanization on the relationship between RR and ASM was relatively gradual. (3) Differences in RR between rural and intensively urbanized catchments were observable not only for dry pre-event conditions but also for wet short-term conditions.
+
+## Citation
+
+Saadi, M., Oudin, L., & Ribstein, P. (2020). Beyond Imperviousness: The Role of Antecedent Wetness in Runoff Generation in Urbanized Catchments. Water Resources Research, 56(11). Portico. https://doi.org/10.1029/2020wr028060

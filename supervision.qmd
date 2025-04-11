@@ -1,0 +1,215 @@
+---
+title: "Direction de thèses"
+---
+
+## Thèses en cours
+
+
+
+
+## Thèses soutenues
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+[![](files/supervision/lalonde.png)](https://theses.fr/s384024)
+
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+**Morgane Lalonde (2024)**
+
+**Urban effects on the hydroclimate: observed and modeled analyses**
+
+Sorbonne Université - Direction : Ludovic Oudin (METIS) & Sophie Bastin (LATMOS)
+
+Financement EUR IPSL-CGS
+
+<details>
+  <summary>Abstract </summary>
+  
+Urban water management is evolving in response to the increasing urban population, rising demand for water supply, climate change, and urban-induced changes in regional hydroclimate. Ensuring a sustainable approach to urban water management requires a deeper understanding of the urban hydroclimate. This thesis addresses this need by investigating urban effects on precipitation, influences on natural surface properties, and the interactions between atmospheric and hydrological systems in shaping the urban hydroclimate. A multidisciplinary approach is adopted, integrating insights from both atmospheric and hydrological sciences and combining empirical analyses of observed data with modeling to provide complementary perspectives. The study begins by examining urban effects on precipitation through a combination of literature review and machine learning to assess any consensus. Given the lack of agreement among studies using radar precipitation data, a consistent wind-based radar methodology is applied to a broad sample of cities over the USA and Europe. This approach aims to determine if urban areas have a consistent influence on precipitation patterns across regions, addressing the challenge of generalizing urban effects on precipitation. The modeling aspect includes a review of existing urban land surface models, focusing on their representation of surface hydrological processes and energy fluxes. This is followed by the development of a new urban surface scheme for the ORCHIDEE model, incorporating urban heterogeneities and representation of imperviousness.
+
+</details> 
+
+:::
+
+:::
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+[![](files/supervision/lemaitre_basset.png)](https://theses.hal.science/tel-04155520)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+**Thibault Lemaitre-Basset (2023)**
+
+**Importance de la demande en eau atmosphérique et anthropique en contexte de changement climatique sur la durabilité de la gestion de la ressource : cas d'étude du bassin versant de la Moselle en France**
+
+Sorbonne Université - Direction : Ludovic Oudin (METIS) & Guillaume Thirel (INRAE- UR HYCAR)
+
+Financement ED GRNE
+
+<details>
+  <summary>Abstract </summary>
+  
+The climate projections analysed in the IPCC reports indicate an increase in air temperature ranging from +2 to +6 °C on average by 2100. A warming of this magnitude and speed is unprecedented, and it is due to human activities. Despite this fact, a reduction in greenhouse gas emissions does not seem to be in sight within a reasonable time frame. It is therefore necessary to think about adaptation strategies to mitigate the deleterious impacts of climate change. The water cycle is directly impacted by climate change, through an increase in atmospheric water demand that could lead to an increase in evapotranspiration, and through an increase in anthropogenic pressure on water resources, whose reserves may change. By relying on hydrological simulations under climate change scenarios, stakeholders can assess the magnitude of future changes. However, hydrological models often rely on stationarity assumptions that may not be valid under global change. The overall objective of this thesis is to introduce methodologies that implement hydrological modelling frameworks more suited to deal with the challenges faced by stakeholders in sustainable water resource management.
+
+</details>
+
+
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+[![](files/supervision/peredo.png)](https://theses.hal.science/tel-03469456v1)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+**Daniela Peredo (2021)**
+
+**Quels gains d’une modélisation hydrologique adaptée et d’une approche d’ensemble pour la prévision des crues rapides ?**
+
+Sorbonne Université - Direction : Ludovic Oudin (METIS) & Maria-Helena Ramos (INRAE- UR HYCAR)
+
+Financement ED GRNE
+
+<details>
+  <summary>Abstract </summary>
+  
+Flood forecasting plays a fundamental role in anticipating and implementing measures to protect lives and property. The objective of this thesis is to investigate our ability to improve the simulation and forecasting of major flash flood events in France. First, we analyse the limitations of the lumped hydrological modelling approach, and how the contribution of the semi-distributed hydrological model GRSD, with fine mesh and hourly time step, to improve the simulation of major flood events. We also propose a modification of the structure of the model, in order to make it better suited to reproducing the response of the catchments to high rainfall intensities. An adaptation of the model structure, based on the calculation of the production rate function, resulted in the introduction of a new parameter and the proposal of a new model (GRSDi) capable of better simulating the hydrological response to heavy rains that occur in autumn, after a dry summer period. Second, we explore the ability of a meteorological ensemble prediction approach, combined with the semi-distributed hydrological model, to better predict flash flood events, the amplitude and the time of occurrence of peak flows, whether in gauged or ungauged basins. The results made it possible to identify, from a hydrological point of view, the strengths and weaknesses of the products evaluated. The work carried out constitutes a step forward towards the use of conceptual, continuous and semi-distributed hydrological models for the forecasting of major flood events and flash floods in the Mediterranean context. 
+
+</details>
+
+
+
+
+
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+[![](files/supervision/saadi.png)](https://theses.hal.science/tel-03250292)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+**Mohamed Saadi (2020)**
+
+**Représentation de l’urbanisation dans la modélisation hydrologique à l’échelle du bassin versant**
+
+Sorbonne Université - Direction : Ludovic Oudin (METIS) & Pierre Ribstein (METIS)
+
+Financement ED GRNE
+
+<details>
+  <summary>Abstract </summary>
+  
+In order to determine the hydrological impact of future urban development, hydrological modeling is very useful because it allows obtaining hydrological scenarios from urbanization scenarios by considering climate variability. Despite the current diversity of applicable hydrological models to urbanized catchments, those models were generally tested on few catchments, which raises the question of their robustness. The objective of this thesis is to look for a hydrological model structure that is able to reproduce the rainfall-runoff relationship for a large sample of urbanized catchments, located in France and the United States, and characterized by a wide variety of urban sprawl. To do so, we started from an hourly conceptual model structure (GR4H) which was not specifically developed nor tested on highly urbanized catchments. We followed four steps: (1) The collection and preparation of a large sample of data for more than 2000 catchments located in France and the United States. The analysis of the variability of event runoff ratio for 852 US catchments showed the dependence of catchment response not only on mean total impervious area (TIA), but also on antecedent soil moisture conditions regardless of the level of urban sprawl in the catchment; (2) The test of the starting model structure on highly urbanized catchments. This step showed the ability of GR4H parameters to reflect the behavioral specificities of urbanized catchments; (3) The regionalization of GR4H parameters in order to relate them to the fraction of urban cover in the catchment. The obtained regression relationships performed well but showed weak sensitivity to change in the fraction of urban cover, which impeded their use for scenario prediction; (4) The step-by-step modification of the GR4H model structure by including excess rainfall on impervious surfaces, and by varying the partitioning between quick flow and slow flow depending on each catchment. The evaluation of these modifications on 273 urbanized catchments indicated an improvement in reproducing the observed flows in comparison to the original structure, especially during dry and flooding periods. The added parameters showed a strong dependence on the mean total impervious area. This thesis work illustrates a constructive modeling approach by which we have succeeded in both (1) improving the representation of urbanization within the model and (2) obtaining better simulation of catchment response. An effort of regionalizing the new model structure using measures of urban landscape fragmentation will allow to better estimate the impact of different urban planning schemes on the hydrological behavior at the catchment scale.
+
+</details>
+
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+[![](files/supervision/garcia.png)](https://theses.hal.science/tel-01624530)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+**Florine Garcia (2016)**
+
+**Amélioration d'une modélisation hydrologique régionalisée pour estimer les statistiques d'étiage**
+
+Sorbonne Université - Direction : Ludovic Oudin (METIS) & Nathalie Folton (INRAE - UR RECOVER)
+
+Financement bourse INRAE
+
+<details>
+  <summary>Abstract </summary>
+  
+Estimating low-flow indices is of paramount importance to understand low flows and to manage water resources and risk assessments. These indices are derived from time-series of river discharges that are measured at gauged sites over long periods. At ungauged sites, the indices must be estimated. This research work is part of a project to improve “LoiEau”, a software package that is used by French regional environmental or water agencies. The main objective is to develop a simple and flexible rainfall-runoff model to simulate low-flow indices of ungauged sites at daily or longer time intervals. The model simplicity relies on the strong assumption that two free parameters are sufficient to provide accurate enough estimates of low-flow indices, yet making easier the regionalisation of models. The model accuracy depends on the objective function that is used to calibrate model parameters on gauged sites and had to be adapted to low-flow simulations. The model is flexible in the sense that it is designed to fit to a wide variety of catchments and hydro-meteorological behaviours. This model was compared with GR4J, a daily rainfall-runoff model which involves four parameters, and LoiEau, a monthly model. Comparisons were also carried out with a stochastic estimation method applied to a specific low-flow index. This research work shows the potential of the two-parameter model, but also the advantage of a daily time step to account for the temporal variability of precipitations, which is not without consequence on the assessment of average discharges due to the nonlinearity of rainfall-runoff models. 
+
+</details>
+
+
+
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+[![](files/supervision/poncelet.png)](https://theses.hal.science/tel-01529196v1)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+**Carine Poncelet (2016)**
+
+**Du bassin au paramètre : jusqu'où peut-on régionaliser un modèle hydrologique conceptuel ?**
+
+Financement Kic-Climat
+
+<details>
+  <summary>Abstract </summary>
+  
+Water resources are variable in time and space. Hydrological models are required to assess these resources and have to cope with catchments complexity and measurement limits. Most of the catchments are gauged which means that streamflow measurements are available at the catchment outlet. In particular, streamflow measurements can be used to analyse the catchment hydrological behavior and calibrate model parameters. However for ungauged catchments, the hydrological behavior must be define by other ways and model parametrisation must be assessed through regionalization instead of calibration.Regionalization studies rely on gauged catchments to developp methodologies applicable to ungauged catchments. They cover a large range of applications from hydrological signatures predictions (mean streamflow, regime, flow duration curves ...) to low-flow or flood predictions. The present work aims at estimating streamflow hydrographs in ungauged catchments by regionalizing hydrological model parameters.Several methods have been developped to solve this problem and they mostly rely on the knowledge of parameter sets on gauged catchments to find the best way to transfer the parameters sets between catchments. Gauged catchments are then considered as donor catchments while ungauged catchments are receiver: the challenge of transfert-based methods being to assign the correct donnor to each receiver. However, these methods make two strong hypothesis: (i) parameters sets calibrated on gauged catchments are reliable and (ii) similar gauged and ungauged catchments can be accurately matched during the transfer. However, those hypothesis do not always seem to hold true. In this context, regional calibration appears as a promising way for hydrological model regionalization since regional calibration look for common parameter sets on several catchments. This way, parameters are known with less uncertainties on gauged catchment and parameters regionalization is joined with calibration. The challenge of this PhD thesis is to develop and apply a regionalization scheme, based on regional calibration, to the GR6J hydrological model. On a large dataset, we have studied if regional calibration is a competitive solution to regionalize hydrological models compared to existing methodologies (i.e. transfer-based methods).As a prelude to the regionalization study, we paid attention to analyse the model on gauged catchments. In particular, we analysed the model sensitivity to its parameters to define the functionnal role of each parameter. Eight model parametrisation schemes were tested to identify the hydrologically optimal parameter set, i.e. a parameter set that is only catchment-dependant and do not depend on calibration strategy. Secondly we present an inovative method called “group calibration”, based on regional calibration, to link model parameters and hydrological descriptors. This method is fit for taking into account compensations between model parameters, allows the hydrological interpretation of the obtained relationships and is competitive to existing methods. Last, we conceptualize the regionalization methods to better undestand how to best value regional informations and increase model performance in extrapolation. We show that all methods set a ceilling and that space for improvement do not lie in the correct matching of donnor and reciever catchments but in the identification of more easily transferable informations. 
+
+</details>
+
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+[![](files/supervision/salavati.png)](https://theses.hal.science/tel-01529196v1)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+**Bahar Salavati (2015)**
+
+**Impact de l’urbanisation sur la réponse hydrologique des bassins versants urbains**
+
+Sorbonne Université - Direction : Ludovic Oudin (METIS) & Pierre Ribstein (METIS)
+
+Financement Campus France - CNOUS
+
+<details>
+  <summary>Abstract </summary>
+  
+Water resources are variable in time and space. Hydrological models are required to assess these resources and have to cope with catchments complexity and measurement limits. Most of the catchments are gauged which means that streamflow measurements are available at the catchment outlet. In particular, streamflow measurements can be used to analyse the catchment hydrological behavior and calibrate model parameters. However for ungauged catchments, the hydrological behavior must be define by other ways and model parametrisation must be assessed through regionalization instead of calibration.Regionalization studies rely on gauged catchments to developp methodologies applicable to ungauged catchments. They cover a large range of applications from hydrological signatures predictions (mean streamflow, regime, flow duration curves ...) to low-flow or flood predictions. The present work aims at estimating streamflow hydrographs in ungauged catchments by regionalizing hydrological model parameters.Several methods have been developped to solve this problem and they mostly rely on the knowledge of parameter sets on gauged catchments to find the best way to transfer the parameters sets between catchments. Gauged catchments are then considered as donor catchments while ungauged catchments are receiver: the challenge of transfert-based methods being to assign the correct donnor to each receiver. However, these methods make two strong hypothesis: (i) parameters sets calibrated on gauged catchments are reliable and (ii) similar gauged and ungauged catchments can be accurately matched during the transfer. However, those hypothesis do not always seem to hold true. In this context, regional calibration appears as a promising way for hydrological model regionalization since regional calibration look for common parameter sets on several catchments. This way, parameters are known with less uncertainties on gauged catchment and parameters regionalization is joined with calibration. The challenge of this PhD thesis is to develop and apply a regionalization scheme, based on regional calibration, to the GR6J hydrological model. On a large dataset, we have studied if regional calibration is a competitive solution to regionalize hydrological models compared to existing methodologies (i.e. transfer-based methods).As a prelude to the regionalization study, we paid attention to analyse the model on gauged catchments. In particular, we analysed the model sensitivity to its parameters to define the functionnal role of each parameter. Eight model parametrisation schemes were tested to identify the hydrologically optimal parameter set, i.e. a parameter set that is only catchment-dependant and do not depend on calibration strategy. Secondly we present an inovative method called “group calibration”, based on regional calibration, to link model parameters and hydrological descriptors. This method is fit for taking into account compensations between model parameters, allows the hydrological interpretation of the obtained relationships and is competitive to existing methods. Last, we conceptualize the regionalization methods to better undestand how to best value regional informations and increase model performance in extrapolation. We show that all methods set a ceilling and that space for improvement do not lie in the correct matching of donnor and reciever catchments but in the identification of more easily transferable informations. 
+
+</details>
+
+:::
+
+:::
+

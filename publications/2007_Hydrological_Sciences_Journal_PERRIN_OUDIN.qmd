@@ -1,0 +1,16 @@
+---
+title: "Impact of limited streamflow data on the efficiency and the parameters of rainfall—runoff models"
+author: "Perrin, C., Oudin, L., Andreassian, V., Rojas-Serna, C., Michel, C., Mathevet, T."
+publication: "Hydrological Sciences Journal"
+year: 2007
+categories: [Hydrological Model,Urban Hydrology,Model Calibration]
+doi: https://doi.org/10.1623/hysj.52.1.131
+---
+
+## Abstract
+
+Streamflow data are essential for the calibration of continuous rainfall—runoff (RR) models. The quantity and quality of streamflow data can significantly influence parameter calibration and thus model robustness. Most existing sensitivity analysis studies on the role of streamflow data have used continuous periods to calibrate model parameters, with a minimum of one year, though ideally much longer periods are generally advised. However, in practical model applications, streamflow data series available for model calibration may be rather short or non-continuous. This study aims at assessing the sensitivity of continuous RR models to the quantity of information used during model calibration when it is randomly sampled in the observed hydrograph, i.e. using non-continuous calibration periods. This sampling provides less auto-correlated streamflow information for model calibration than continuous records. Two daily RR models with four and six free parameters were tested on a sample of 12 basins in the USA to obtain more general conclusions. The results showed that, in general, 350 calibration days sampled out of a longer data set including dry and wet conditions are sufficient to obtain robust estimates of model parameters. The more parsimonious model requires fewer calibration data to obtain stable and robust parameter values. Stable parameter values prove more difficult to reach in the driest catchments.
+
+## Citation
+
+PERRIN, C., OUDIN, L., ANDREASSIAN, V., ROJAS-SERNA, C., MICHEL, C., & MATHEVET, T. (2007). Impact of limited streamflow data on the efficiency and the parameters of rainfall—runoff models. Hydrological Sciences Journal, 52(1), 131–151. https://doi.org/10.1623/hysj.52.1.131

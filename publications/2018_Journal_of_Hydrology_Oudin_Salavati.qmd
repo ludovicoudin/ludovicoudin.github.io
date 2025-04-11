@@ -1,0 +1,16 @@
+---
+title: "Hydrological impacts of urbanization at the catchment scale"
+author: "Oudin, L., Salavati, B., Furusho-Percot, C., Ribstein, P., Saadi, M."
+publication: "Journal Of Hydrology"
+year: 2018
+categories: [Hydrological Model,Urban Hydrology,Low-Flows,Floods]
+doi: https://doi.org/10.1016/j.jhydrol.2018.02.064
+---
+
+## Abstract
+
+The impacts of urbanization on floods, droughts and the overall river regime have been largely investigated in the past few decades, but the quantification and the prediction of such impacts still remain a challenge in hydrology. We gathered a sample of 142 catchments that have a documented increase in urban areas over the hydrometeorological record period in the United States. The changes in river flow regimes due to urban spread were differentiated from climate variability using the GR4J conceptual hydrological model. High, low and mean flows were impacted at a threshold of a 10% total impervious area. Moreover, the historical evolution of urban landscape spatial patterns was used to further detail the urbanization process in terms of extent and fragmentation of urban areas throughout the catchment and to help interpret the divergent impacts observed in streamflow behaviors. Regression analysis pointed out the importance of major wastewater treatment facilities that might overpass the effects of imperviousness, and therefore further research should either take them explicitly into account or select a wastewater facility-free catchment sample to clearly evaluate the impacts of urban landscape on low flows.
+
+## Citation
+
+Oudin, L., Salavati, B., Furusho-Percot, C., Ribstein, P., & Saadi, M. (2018). Hydrological impacts of urbanization at the catchment scale. Journal of Hydrology, 559, 774–786. https://doi.org/10.1016/j.jhydrol.2018.02.064

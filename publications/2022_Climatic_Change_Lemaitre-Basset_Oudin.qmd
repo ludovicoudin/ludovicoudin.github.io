@@ -1,0 +1,16 @@
+---
+title: "Evapotranspiration in hydrological models under rising CO2: a jump into the unknown"
+author: "Lemaitre-Basset, T., Oudin, L., Thirel, G."
+publication: "Climatic Change"
+year: 2022
+categories: [Hydrological Model,Budyko,Climate Change,Evapotranspiration]
+doi: https://doi.org/10.1007/s10584-022-03384-1
+---
+
+## Abstract
+
+Many hydrological models use the concept of potential evapotranspiration (PE) to simulate actual evapotranspiration (AE). PE formulations often neglect the effect of carbon dioxide (CO2), which challenges their relevance in a context of climate change and rapid changes in CO2 atmospheric concentrations. In this work, we implement three options from the literature to take into account the effect of CO2 on stomatal resistance in the well-known Penman–Monteith PE formulation. We assess their impact on future runoff using the Budyko framework over France. On the basis of an ensemble of Euro-Cordex climate projections using the RCP 4.5 and RCP 8.5 scenarios, we show that taking into account CO2 in PE formulations largely reduces PE values but also limits projections of runoff decrease, especially under an emissive scenario, namely, the RCP 8.5, whereas the classic Penman–Monteith formulation yields decreasing runoff projections over most of France, taking into account CO2 yields more contrasting results. Runoff increase becomes likely in the north of France, which is an energy-limited area, with different levels of runoff response produced by the three tested formulations. The results highlight the sensitivity of hydrological projections to the processes represented in the PE formulation.
+
+## Citation
+
+Lemaitre-Basset, T., Oudin, L., & Thirel, G. (2022). Evapotranspiration in hydrological models under rising CO2: a jump into the unknown. Climatic Change, 172(3–4). https://doi.org/10.1007/s10584-022-03384-1

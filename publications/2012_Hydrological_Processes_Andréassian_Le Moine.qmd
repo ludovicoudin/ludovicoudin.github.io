@@ -1,0 +1,16 @@
+---
+title: "All that glitters is not gold: the case of calibrating hydrological models"
+author: "Andréassian, V., Le Moine, N., Perrin, C., Ramos, M., Oudin, L., Mathevet, T., Lerat, J., Berthet, L."
+publication: "Hydrological Processes"
+year: 2012
+categories: [Hydrological Model,Model Calibration]
+doi: https://doi.org/10.1002/hyp.9264
+---
+
+## Abstract
+
+All that glitters is not gold is one of those universal truths that also applies to hydrology and particularly to the issue of model calibration, where a glittering mathematical optimum is too often mistaken for a hydrological optimum. This commentary aims at underlining the fact that calibration difficulties have not disappeared with the advent of the latest search algorithms. Although it is true that progress on the numerical front has allowed us to quasi-eradicate miscalibration issues, we still too often underestimate the remaining hydrological task: screening mathematical optima to identify those parameter sets that will also work sufficiently outside the calibration period.
+
+## Citation
+
+Andréassian, V., Le Moine, N., Perrin, C., Ramos, M., Oudin, L., Mathevet, T., Lerat, J., & Berthet, L. (2012). All that glitters is not gold: the case of calibrating hydrological models. Hydrological Processes, 26(14), 2206–2210. Portico. https://doi.org/10.1002/hyp.9264

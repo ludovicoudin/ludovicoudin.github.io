@@ -1,0 +1,107 @@
+---
+title: "Media"
+---
+
+
+::: {#hero-heading}
+
+L’évolution des ressources en eaux et des risques hydroclimatiques est un sujet d’actualité important ! Quelques formes de diffusion du savoir que j'ai pu expérimenter ces dernières années...
+
+
+## Actions auprès de scolaires
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](files/fetescience.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+* Participation à la Fête de la Science : atelier sur le cycle de l'eau et démonstration d'écouements souterrains sur des maquettes.
+
+* Accueil des stagiaires de 2nde et 3ème : intervention sous forme de TP d'une demi-journée sur les écoulements souterrains.
+
+* Intervention au Lycée Claude Bernard (Paris) sur la thématique de l’eau dans la ville. Accompagnement d'un projet pédagogique depuis 2023 "L'Eau pour tous, tous pour l'Eau" piloté par la DRIEAT en partenariat avec le rectorat de Paris.
+
+:::
+
+:::
+
+## Sphère académique
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](files/insu.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+[Brève INSU - Ruissellement urbain : repenser des villes plus perméables ?](https://www.insu.cnrs.fr/fr/cnrsinfo/ruissellement-urbain-repenser-des-villes-plus-permeables) publiée en septembre 2022
+
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](files/BHVP.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+Conférencier à la Rencontre « Vivre avec l’eau : repenser la ville de demain » (Bibliothèque historique de la Ville de Paris, le 4 octobre 2023). Conférence-débat avec Stéphanie Bidault, animée par Olivier Nouaillas (1h de discussion et 30 minutes de réponses aux questions du public, composé d’environ 150 personnes).
+
+:::
+
+:::
+
+## Presse écrite 
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](files/lopinion.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+[Article de l'Opinion - « Tensions sur l’eau : la sobriété est utile, mais pas suffisante »](https://www.lopinion.fr/economie/tensions-sur-leau-la-sobriete-est-utile-mais-pas-suffisante-la-chronique-danais-marechal) - Publié le 12 avril 2023
+
+:::
+
+:::
+
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](files/lacroix.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+[La Croix - « Comment prévenir les inondations»](https://www.la-croix.com/planete/Crues-records-comment-prevenir-risques-dinondation-France-2023-11-15-1201290821) - Publié le 15 novembre 2023
+:::
+
+:::
+
+## Podcast 
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4PSqvp34Z63raJ9Qizu2u3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+:::
+
+
+

@@ -1,0 +1,16 @@
+---
+title: "Spatial proximity, physical similarity, regression and ungaged catchments: A comparison of regionalization approaches based on 913 French catchments"
+author: "Oudin, L., Andréassian, V., Perrin, C., Michel, C., Le Moine, N."
+publication: "Water Resources Research"
+year: 2008
+categories: [Hydrological Model,Prediction in Ungauged basins,Model Calibration]
+doi: https://doi.org/10.1029/2007wr006240
+---
+
+## Abstract
+
+Given the contradictory results from recent studies, this paper compares classical regionalization schemes of catchment model parameters over the wide range of hydroclimates found in France. To ensure the generality of the conclusions, we used two lumped rainfall-runoff models applied to daily data over a large set of 913 French catchments. Three types of approaches were considered: regionalization using regression, regionalization based on spatial proximity and regionalization based on physical similarity. This comparison shows that in France, where a dense network of gauging stations is available, spatial proximity provides the best regionalization solution. The regression approach is the least satisfactory, with results very close to those obtained using one median parameter set for the whole country. The physical similarity approach is intermediary. However, the results obtained with these three methods lag far behind those obtained by full model calibration. Our results also show that some improvement could be made by combining spatial proximity and physical similarity, and that there is still considerable room for progress in the field of ungaged catchment modeling.
+
+## Citation
+
+Oudin, L., Andréassian, V., Perrin, C., Michel, C., & Le Moine, N. (2008). Spatial proximity, physical similarity, regression and ungaged catchments: A comparison of regionalization approaches based on 913 French catchments. Water Resources Research, 44(3). Portico. https://doi.org/10.1029/2007wr006240

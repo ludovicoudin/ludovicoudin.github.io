@@ -1,0 +1,16 @@
+---
+title: "Multi-objective assessment of hydrological model performances using Nash–Sutcliffe and Kling–Gupta efficiencies on a worldwide large sample of watersheds"
+author: "Mathevet, T., Le Moine, N., Andréassian, V., Gupta, H., Oudin, L."
+publication: "Comptes Rendus. Géoscience"
+year: 2024
+categories: [Hydrological Model,Model Calibration]
+doi: https://doi.org/10.5802/crgeos.189
+---
+
+## Abstract
+
+We introduce a new diagnosis tool that is well suited to analyzing simulation results over large samples of watersheds. It consists of a modification of the classical Taylor diagram to simultaneously visualize several error components (based on bias, standard deviation or squared errors) that are commonly used in efficiency criteria (such as the Nash–Sutcliffe efficiency (NSE) or the Kling–Gupta efficiency (KGE)) to evaluate hydrological model performance. We propose a methodological framework that explicitly links the graphical and numerical evaluation approaches, and show how they can be usefully combined to visually interpret numerical experiments conducted on large datasets. The approach is illustrated using results obtained by testing two rainfall-runoff models on a sample of 2050 watersheds from 8 countries and calibrated with two alternative objective functions (NSE and KGE). The assessment tool clearly highlights well-documented problems related to the use of the NSE for the calibration of rainfall-runoff models, which arise due to interactions between the ratio of simulated to observed standard deviations and the correlation coefficient. We also illustrate the negative impacts of classical mathematical transformations (square root) applied to streamflow when employing NSE and KGE as metrics for model calibration.
+
+## Citation
+
+Mathevet, T., Le Moine, N., Andréassian, V., Gupta, H., & Oudin, L. (2024). Multi-objective assessment of hydrological model performances using Nash–Sutcliffe and Kling–Gupta efficiencies on a worldwide large sample of watersheds. Comptes Rendus. Géoscience, 355(S1), 117–141. https://doi.org/10.5802/crgeos.189

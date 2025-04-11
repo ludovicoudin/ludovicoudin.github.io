@@ -1,0 +1,16 @@
+---
+title: "Data-set cleansing practices and hydrological regionalization: is there any valuable information among outliers?"
+author: "Boldetti, G., Riffard, M., Andréassian, V., Oudin, L."
+publication: "Hydrological Sciences Journal"
+year: 2010
+categories: [Prediction in Ungauged basins]
+doi: https://doi.org/10.1080/02626667.2010.505171
+---
+
+## Abstract
+
+In hydrological regionalization studies, where one attempts to transfer information from gauged (donor) stations to ungauged (target) ones, the problem of data quality and reliability is often raised. Should all the available data be used? Or should some donor stations be considered unreliable for some reason and therefore discarded? In this article, we address these questions by proposing a new method to detect potentially undesirable stations: this method to identify outliers is based on the detection of catchments which do not fit in their neighbourhood. We apply this approach to a case of simple regionalization involving reference flows and compare it with the traditional outlier detection method. As expected, different outlier definitions lead to considerably different results, and the proposed method appears to perform noticeably better than the traditional one. Citation Boldetti, G., Riffard, M., Andréassian, V. & Oudin, L. (2010) Data-set cleansing practices and hydrological regionalization: is there any valuable information among outliers? Hydrol. Sci. J. 55(6), 941–951.
+
+## Citation
+
+Boldetti, G., Riffard, M., Andréassian, V., & Oudin, L. (2010). Data-set cleansing practices and hydrological regionalization: is there any valuable information among outliers? Hydrological Sciences Journal, 55(6), 941–951. https://doi.org/10.1080/02626667.2010.505171

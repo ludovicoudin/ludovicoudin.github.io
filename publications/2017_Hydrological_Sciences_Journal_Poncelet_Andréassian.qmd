@@ -1,0 +1,16 @@
+---
+title: "The Quantile Solidarity approach for the parsimonious regionalization of flow duration curves"
+author: "Poncelet, C., Andréassian, V., Oudin, L., Perrin, C."
+publication: "Hydrological Sciences Journal"
+year: 2017
+categories: [Prediction in Ungauged basins]
+doi: https://doi.org/10.1080/02626667.2017.1335399
+---
+
+## Abstract
+
+This paper presents a novel method to estimate flow duration curves (FDCs) for ungauged catchments with permanent flow. It is based on a dataset of 521 catchments located throughout France. The method consists in a three-step procedure called the Quantile Solidarity (QS) approach. First, a regression-based model is built to estimate FDCs in ungauged catchments, linking each flow quantile independently to physical descriptors. The second step involves imposing the continuity of the regression-based model parameters along the quantiles (hence quantile solidarity) to obtain a large reduction in the number of parameters used to estimate the FDC. The last step consists in spatially interpolating the model residuals to further improve the performance of the FDC estimation. The QS approach yields a robust and parsimonious FDC estimation without any loss in simulation efficiency and ensures strictly monotonic FDCs.EDITOR A. Castellarin ASSOCIATE EDITOR A. Efstratiadis EDITOR A. Castellarin ASSOCIATE EDITOR A. Efstratiadis
+
+## Citation
+
+Poncelet, C., Andréassian, V., Oudin, L., & Perrin, C. (2017). The Quantile Solidarity approach for the parsimonious regionalization of flow duration curves. Hydrological Sciences Journal, 62(9), 1364–1380. https://doi.org/10.1080/02626667.2017.1335399

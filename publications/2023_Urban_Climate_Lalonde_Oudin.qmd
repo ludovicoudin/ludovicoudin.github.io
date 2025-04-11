@@ -1,0 +1,16 @@
+---
+title: "Urban effects on precipitation: Do the diversity of research strategies and urban characteristics preclude general conclusions?"
+author: "Lalonde, M., Oudin, L., Bastin, S."
+publication: "Urban Climate"
+year: 2023
+categories: [Urban Hydrology,Precipitation]
+doi: https://doi.org/10.1016/j.uclim.2023.101605
+---
+
+## Abstract
+
+The urban effect on precipitation is a potential increase or decrease of precipitation upon and around urban areas induced by urban processes such as the urban heat island, aerosol emissions, or increased surface roughness. In the last 50 years, many studies have tried to characterize the influence of urban areas on precipitation, as understanding and predicting the effect would enable its mitigation. To summarize previous investigations on the urban effect on precipitation, we review and classify the urban characteristics of studied cities and research strategies used in articles. We then analyze with machine learning the influence of these research strategies and urban characteristics on the results found by articles. Investigating over 174 experiments from 48 articles, we find that the results are mostly sensitive to the dataset type. Modeling studies and those using rain gauges and satellite data agree on an increase in precipitation caused by urban areas while studies based on radar data do not reach a consensus since many of them do not identify an effect. Also, increases in precipitation are more consensual in temperate climates than in continental climates. Future research should focus on multi-city analysis with transferable methodologies to understand the urban effect variations between cities.
+
+## Citation
+
+Lalonde, M., Oudin, L., & Bastin, S. (2023). Urban effects on precipitation: Do the diversity of research strategies and urban characteristics preclude general conclusions? Urban Climate, 51, 101605. https://doi.org/10.1016/j.uclim.2023.101605

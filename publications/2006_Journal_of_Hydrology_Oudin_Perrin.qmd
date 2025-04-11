@@ -1,0 +1,16 @@
+---
+title: "Impact of biased and randomly corrupted inputs on the efficiency and the parameters of watershed models"
+author: "Oudin, L., Perrin, C., Mathevet, T., Andréassian, V., Michel, C."
+publication: "Journal Of Hydrology"
+year: 2006
+categories: [Hydrological Model,Evapotranspiration,Model Calibration]
+doi: https://doi.org/10.1016/j.jhydrol.2005.07.016
+---
+
+## Abstract
+
+In this paper, we use a sample of 12 US watersheds with various characteristics to investigate the influence of both random and systematic errors in input data (rainfall and potential evapotranspiration—PE) on the performance and parameter values of rainfall-runoff models. Two different rainfall-runoff model structures were tested to get a more general overview on this issue. A dynamic sensitivity analysis approach was adopted (i.e. with re-calibration of model parameters). Results indicate that watershed models use their different functions (and corresponding parameters) to absorb input errors and muffle their impact on streamflow simulations. The main conclusions are: (1) models are almost insensitive to random errors in PE series, which comes from the inherent low pass filter properties of rainfall-runoff models; (2) random errors in rainfall series significantly affect model performances and parameter values; (3) systematic errors in PE series have a greater impact than random errors, but they are partly buffered by Soil Moisture Accounting (SMA) stores; (4) systematic errors in rainfall time series, when large enough, can be very detrimental to model performances but their impact can be reduced if the model structure includes a procedure other than evapotranspiration to adapt water balance.
+
+## Citation
+
+Oudin, L., Perrin, C., Mathevet, T., Andréassian, V., & Michel, C. (2006). Impact of biased and randomly corrupted inputs on the efficiency and the parameters of watershed models. Journal of Hydrology, 320(1–2), 62–83. https://doi.org/10.1016/j.jhydrol.2005.07.016

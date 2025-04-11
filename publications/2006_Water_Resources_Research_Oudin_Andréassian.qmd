@@ -1,0 +1,16 @@
+---
+title: "Dynamic averaging of rainfall‐runoff model simulations from complementary model parameterizations"
+author: "Oudin, L., Andréassian, V., Mathevet, T., Perrin, C., Michel, C."
+publication: "Water Resources Research"
+year: 2006
+categories: [Hydrological Model,Low-Flows,Model Calibration]
+doi: https://doi.org/10.1029/2005wr004636
+---
+
+## Abstract
+
+In this paper, we analyze how our evaluation of the capacity of a rainfall-runoff model to represent low or high flows depends on the objective function used during the calibration process. We present a method to combine models to produce a more satisfactory streamflow simulation, on the basis of two different parameterizations of the same model. Where we previously had to choose between a more efficient simulation for either high flows or low flows (but inevitably less efficient in the other range), we show that a balanced simulation can be obtained by using a seasonal index to weigh the two simulations, providing good efficiency in both low and high flows.
+
+## Citation
+
+Oudin, L., Andréassian, V., Mathevet, T., Perrin, C., & Michel, C. (2006). Dynamic averaging of rainfall‐runoff model simulations from complementary model parameterizations. Water Resources Research, 42(7). Portico. https://doi.org/10.1029/2005wr004636

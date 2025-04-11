@@ -1,0 +1,16 @@
+---
+title: "Modelling the hydrological impacts of rural land use change"
+author: "Mcintyre, N., Ballard, C., Bruen, M., Bulygina, N., Buytaert, W., Cluckie, I., Dunn, S., Ehret, U., Ewen, J., Gelfan, A., Hess, T., Hughes, D., Jackson, B., Kjeldsen, T. R., Merz, R., Park, J., O’connell, E., O’donnell, G., Oudin, L., Todini, E., Wagener, T., Wheater, H."
+publication: "Hydrology Research"
+year: 2013
+categories: [Land-use Changes,Floods]
+doi: https://doi.org/10.2166/nh.2013.145
+---
+
+## Abstract
+
+The potential role of rural land use in mitigating flood risk and protecting water supplies continues to be of great interest to regulators and planners. The ability of hydrologists to quantify the impact of rural land use change on the water cycle is however limited and we are not able to provide consistently reliable evidence to support planning and policy decisions. This shortcoming stems mainly from lack of data, but also from lack of modelling methods and tools. Numerous research projects over the last few years have been attempting to address the underlying challenges. This paper describes these challenges, significant areas of progress and modelling innovations, and proposes priorities for further research. The paper is organised into five inter-related subtopics: (1) evidence-based modelling; (2) upscaling to maximise the use of process knowledge and physics-based models; (3) representing hydrological connectivity in models; (4) uncertainty analysis; and (5) integrated catchment modelling for ecosystem service management. It is concluded that there is room for further advances in hydrological data analysis, sensitivity and uncertainty analysis methods and modelling frameworks, but progress will also depend on continuing and strengthened commitment to long-term monitoring and inter-disciplinarity in defining and delivering land use impacts research.
+
+## Citation
+
+McIntyre, N., Ballard, C., Bruen, M., Bulygina, N., Buytaert, W., Cluckie, I., Dunn, S., Ehret, U., Ewen, J., Gelfan, A., Hess, T., Hughes, D., Jackson, B., Kjeldsen, T. R., Merz, R., Park, J.-S., O’Connell, E., O’Donnell, G., Oudin, L., … Wheater, H. (2013). Modelling the hydrological impacts of rural land use change. Hydrology Research, 45(6), 737–754. https://doi.org/10.2166/nh.2013.145
