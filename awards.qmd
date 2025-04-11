@@ -2,9 +2,8 @@
 title: "Awards"
 ---
 
-# Reconnaissance par les pairs
 
-- **Prix de thèse du CNFGG 2066**  
+- **Prix de thèse du CNFGG 2006**  
 *« Depuis 1989 le CNFGG décerne chaque année un prix de thèse en géophysique à un ou plusieurs jeunes chercheurs ayant soutenu des thèses remarquables dans le domaine de la géophysique que ce soit pour leurs aspects fondamentaux ou observationnels ou pour leurs applications potentielles dans la société. »*
 
 
