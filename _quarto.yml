@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Ludovic Oudin"
+  google-analytics: "G-XSS51ZWRTW"
   image: "/files/avatar.jpg"
   description: "Ludovic Oudin is a teacher and researcher"
  
