@@ -1,0 +1,16 @@
+---
+title: "Using century-long reanalysis and a rainfall-runoff model  to explore multi-decadal variability in catchment hydrology  at the  European scale"
+author: "Brigode, P., Oudin, L."
+publication: "Hydrology And Earth System Sciences"
+year: 2025
+categories: [Hydrological Model,Floods]
+doi: https://doi.org/10.5194/hess-29-5535-2025
+---
+
+## Abstract
+
+This study explores the ability of global reanalyses to simulate catchment hydrology at the European scale using a conceptual rainfall–runoff model. We used two reanalyses, NOAA 20CR and ERA-20C, to simulate daily streamflows for over 2000 catchments since the 1840s. Our findings show that both reanalyses perform well, particularly for mean flows, with simulation performance improving as catchment size increases, though challenges remain for Mediterranean and snow-dominated regions. Additionally, the study highlights significant multi-decadal variations in streamflow, revealing alternating wet and dry periods across Europe. These findings provide valuable insights into long-term hydrological trends and offer a useful framework for understanding future changes in both water resources and hydrological extremes, such as floods, under climate variability.
+
+## Citation
+
+Brigode, P., & Oudin, L. (2025). Using century-long reanalysis and a rainfall-runoff model  to explore multi-decadal variability in catchment hydrology  at the  European scale. Hydrology and Earth System Sciences, 29(20), 5535–5553. https://doi.org/10.5194/hess-29-5535-2025

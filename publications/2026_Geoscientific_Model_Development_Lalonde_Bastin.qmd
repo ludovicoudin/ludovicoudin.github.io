@@ -1,0 +1,16 @@
+---
+title: "Benchmarking a new urban scheme in the ORCHIDEE 2.2  land surface model"
+author: "Lalonde, M., Bastin, S., Oudin, L., Arboleda-Obando, P. F., Ducharne, A."
+publication: "Geoscientific Model Development"
+year: 2026
+categories: [Urban Hydrology,Hydrogeology,Hydraulics]
+doi: https://doi.org/10.5194/gmd-19-9463-2026
+---
+
+## Abstract
+
+Urban areas change natural surface energy and water balances, yet some land surface models still represent cities as natural surfaces. In this study, we present the development of a one-tile urban scheme for the ORCHIDEE land surface model, designed to improve the representation of urban processes, particularly for high-resolution applications. The scheme incorporates key urban parameters such as albedo, building height, thermal properties, and imperviousness. We propose a novel physically-based approach for representing imperviousness, by modifying saturated hydraulic conductivity to account for both surface and subsurface impacts. Off-line simulations across 20 urban flux tower sites show improved performance in sensible and latent heat fluxes with the new urban scheme, compared to the original baresoil representation. Mean absolute error (MAE) evaluation confirms improved model skill, aligning with benchmark results from the Urban-PLUMBER intercomparison. The scheme also captures expected urban hydrological signatures, such as increased surface runoff, though some reductions in subsurface runoff may be less consistent with observed urban recharge patterns. This work lays the foundation for applying ORCHIDEE at the basin scale and in high-resolution convection-permitting simulations for urban hydroclimate studies. Perspectives include refining thermal parameter choices, integrating anthropogenic heat fluxes, and conducting high-resolution simulations to assess hydrological performances using observed streamflow data.
+
+## Citation
+
+Lalonde, M., Bastin, S., Oudin, L., Arboleda-Obando, P. F., & Ducharne, A. (2026). Benchmarking a new urban scheme in the ORCHIDEE 2.2  land surface model. Geoscientific Model Development, 19(19), 9463–9488. https://doi.org/10.5194/gmd-19-9463-2026

@@ -1,0 +1,16 @@
+---
+title: "Diverse urban effects on precipitation over North American and European cities"
+author: "Lalonde, M., Bastin, S., Oudin, L."
+publication: "Urban Climate"
+year: 2026
+categories: [Urban Hydrology,Precipitation]
+doi: https://doi.org/10.1016/j.uclim.2026.102867
+---
+
+## Abstract
+
+Urban areas modify land-atmosphere interactions through urban heat islands, increased surface roughness, impervious surfaces, and anthropogenic aerosol emissions. These effects are expected to influence regional precipitation, with the IPCC reporting probable increases over and downwind of cities. Recent availability of long-term homogeneous, high spatial and temporal resolutions radar precipitation datasets at continental scales offers unprecedented opportunities to investigate the variability of urban effects on precipitation across cities. Wind-based analyses of urban effects, facilitated by these new datasets, have recently reached the continental scale, predominantly over the U.S. This study builds on this advancement by extending the framework to Europe, enabling the investigation of urban effects across distinct morphologies. Furthermore, we introduce an innovative step in the wind-based methodology to upscale event-level urban effects on precipitation to climatological timescales. Using data from 37 U.S. cities and 22 European cities, we identify a significant increase in total precipitation over urban and downwind areas compared to upwind zones. However, the results also reveal diverse urban effects, with some cities showing decreases or minimal changes. The analysis of precipitation characteristics at the climatological scale provides new insights: the observed increases in precipitation accumulation are linked to higher mean and maximum precipitation intensities over cities, while downwind zones experience longer precipitation event durations. Results show a positive correlation between urban extent and the magnitude of the urban precipitation effect (both over the city and downwind), while the downwind enhancement is additionally positively correlated with imperviousness and negatively correlated with the mean height of roughness elements.
+
+## Citation
+
+Lalonde, M., Bastin, S., & Oudin, L. (2026). Diverse urban effects on precipitation over North American and European cities. Urban Climate, 67, 102867. https://doi.org/10.1016/j.uclim.2026.102867

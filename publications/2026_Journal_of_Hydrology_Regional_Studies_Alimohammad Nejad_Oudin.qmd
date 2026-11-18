@@ -1,0 +1,16 @@
+---
+title: "Evapotranspiration in tropical basins of Madagascar: A water-balance consistency assessment of different products"
+author: "Alimohammad Nejad, R., Oudin, L., Rakotomandrindra, F. P., Ollivier, C., Olioso, A., Ramahaimandimby, Z., Carrière, S. D."
+publication: "Journal Of Hydrology: Regional Studies"
+year: 2026
+categories: [Evapotranspiration,Floods]
+doi: https://doi.org/10.1016/j.ejrh.2026.104066
+---
+
+## Abstract
+
+Study region This study focuses on humid and semi-humid basins in the tropical regions of Madagascar. The study area is characterized by a limited number of hydrometeorological monitoring systems. Madagascar is particularly prone to extreme weather events (droughts and floods), which significantly affect water resource management. Study focus Ten evapotranspiration (ET) products derived from remote sensing (RS), land surface modeling (LSM), and reanalysis datasets were evaluated for the period 2009–2021. These ET products were assessed interannually and seasonally across nine basins in humid and semi-humid climate zones. ET product estimates were compared with ET determined using a water-balance approach, since no direct ET measurements were available across the region for the period 2003–2019. New hydrological insights for the region This study presents a typical case aiming to determine ET spatially in an area lacking ET measurements a common situation worldwide. However, accurate ET knowledge is essential for sustainable water resource management policies. The results indicate high variability and strong contrasts with substantial uncertainty in ET across Madagascar’s humid and semi-humid regions. Temporal analysis reveals clear seasonal patterns in ET for all products, but their ability to reproduce interannual dynamics varies widely. ERA5 and ETMONITOR show relatively comparatively better agreement with water balance, capturing interannual ET patterns with low bias and acceptable correlation. This study provides the first basin-scale evaluation of diverse ET products in Madagascar.
+
+## Citation
+
+Alimohammad Nejad, R., Oudin, L., Rakotomandrindra, F. P., Ollivier, C., Olioso, A., Ramahaimandimby, Z., & Carrière, S. D. (2026). Evapotranspiration in tropical basins of Madagascar: A water-balance consistency assessment of different products. Journal of Hydrology: Regional Studies, 68, 104066. https://doi.org/10.1016/j.ejrh.2026.104066
