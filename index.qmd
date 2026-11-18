@@ -1,6 +1,6 @@
 ---
 title: "Ludovic Oudin"
-
+image: "/files/L_OUDIN.png"
 about:
   id: hero-heading
   template: solana
@@ -23,11 +23,11 @@ about:
 
 ::: {#hero-heading}
 
-Je suis enseignant-chercheur (PU) à Sorbonne université au laboratoire METIS. 
+Je suis enseignant-chercheur à Sorbonne université au laboratoire METIS. 
 
 Mes travaux de recherche portent essentiellement sur la modélisation hydrologique à l’échelle dite régionale et s’articulent autour de trois axes : (i) le lien entre hydrologie et climat, (ii) le lien entre hydrologie et état de surface et (iii) des développements méthodologique de modélisation permettant de tenir compte des non-stationnarités climatiques et environnementales.
 
-J'enseigne principalement l'hydrologie et l'hydraulique et suis responsable du parcours Hydrologie, Hydrogéologie et Géochimie environnementale.
+J'enseigne principalement l'hydrologie et l'hydraulique.
 
 
 
